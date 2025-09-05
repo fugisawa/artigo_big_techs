@@ -1,0 +1,105 @@
+{
+  "strategy": "Pesquisa multifacetada sobre lobby e interferência política das big techs no Brasil, coordenando especialistas para mapear redes de influência, casos documentados de interferência partidária, propostas legislativas de origem corporativa e beneficiamento algorítmico. A complexidade requer duas iterações: primeira para mapeamento amplo e identificação de casos-chave; segunda para aprofundamento em evidências específicas e validação de alegações controversas.",
+  
+  "iterations_planned": 2,
+  
+  "researcher_tasks": {
+    "web-researcher": {
+      "assigned": true,
+      "priority": "high",
+      "tasks": [
+        "Mapear empresas de lobby contratadas por Meta, Google, X/Twitter, TikTok no Brasil (2020-2024)",
+        "Localizar registros de lobistas no Congresso Nacional representando big techs",
+        "Investigar caso específico: treinamento PL em Fortaleza (30/maio/2025) sobre IA para viralização",
+        "Coletar reportagens investigativas sobre interferência em partidos políticos",
+        "Documentar audiências públicas com executivos de big techs no Congresso",
+        "Buscar evidências de parcerias Meta/Google com institutos políticos brasileiros",
+        "Rastrear casos de moderação seletiva durante períodos eleitorais"
+      ],
+      "focus_areas": [
+        "Portal da Transparência - contratos de lobby",
+        "Sites do Senado Federal e Câmara dos Deputados",
+        "Reportagens de Folha, O Globo, UOL, Intercept Brasil",
+        "Relatórios CPI das Fake News",
+        "Dados TSE sobre propaganda digital"
+      ],
+      "constraints": [
+        "Focar período 2020-2024 com ênfase em eleições 2022",
+        "Priorizar casos com documentação oficial disponível",
+        "Separar alegações de fatos comprovados"
+      ]
+    },
+    
+    "academic-researcher": {
+      "assigned": true,
+      "priority": "high",
+      "tasks": [
+        "Buscar literatura acadêmica sobre lobby de tecnologia no Brasil",
+        "Identificar estudos sobre captura regulatória por big techs",
+        "Analisar papers sobre interferência algorítmica em eleições brasileiras",
+        "Revisar dissertações/teses sobre Marco Civil da Internet e PL Fake News",
+        "Mapear produção acadêmica sobre revolving door governo-big techs"
+      ],
+      "focus_areas": [
+        "Ciência Política - lobby e grupos de pressão",
+        "Comunicação - algoritmos e eleições",
+        "Direito - regulação de plataformas digitais",
+        "Administração Pública - captura regulatória"
+      ],
+      "constraints": [
+        "Priorizar publicações peer-reviewed",
+        "Focar em estudos empíricos com dados brasileiros",
+        "Incluir análises comparativas com outros países"
+      ]
+    },
+    
+    "technical-researcher": {
+      "assigned": false,
+      "priority": "low",
+      "tasks": [],
+      "focus_areas": [],
+      "constraints": []
+    },
+    
+    "data-analyst": {
+      "assigned": true,
+      "priority": "medium",
+      "tasks": [
+        "Quantificar valores pagos em contratos de lobby (Portal Transparência)",
+        "Analisar padrões de doações eleitorais de executivos de big techs",
+        "Compilar estatísticas de audiências públicas e reuniões com parlamentares",
+        "Criar timeline de propostas legislativas favoráveis às plataformas",
+        "Medir correlação entre lobby e mudanças regulatórias",
+        "Quantificar alcance de conteúdo político nas plataformas por partido"
+      ],
+      "focus_areas": [
+        "Dados financeiros de lobby e representação",
+        "Estatísticas eleitorais do TSE",
+        "Métricas de engajamento político nas plataformas",
+        "Análise temporal de propostas legislativas"
+      ],
+      "constraints": [
+        "Usar apenas dados públicos verificáveis",
+        "Estabelecer metodologia clara para correlações",
+        "Evitar inferências causais sem evidência robusta"
+      ]
+    }
+  },
+  
+  "integration_plan": "A integração ocorrerá em três níveis: (1) MAPEAMENTO - web-researcher identifica atores e casos, academic-researcher contextualiza teoricamente, data-analyst quantifica impactos; (2) VALIDAÇÃO CRUZADA - casos controversos identificados pelo web-researcher serão verificados contra literatura acadêmica e dados quantitativos; (3) SÍNTESE - construção de rede integrada mostrando fluxos de influência (dinheiro → lobby → legislação → benefícios algorítmicos). Casos específicos como treinamento PL Fortaleza servirão como estudos de caso detalhados, triangulando reportagens, documentos oficiais e análises acadêmicas.",
+  
+  "success_criteria": {
+    "minimum_sources": 50,
+    "coverage_requirements": [
+      "Pelo menos 5 empresas de lobby identificadas com contratos documentados",
+      "Mínimo 10 casos verificados de interferência partidária",
+      "Análise de pelo menos 3 PLs com origem corporativa comprovada",
+      "Documentação do caso Fortaleza/PL com múltiplas fontes",
+      "Mapeamento completo de lobistas registrados no Congresso",
+      "Evidências quantitativas de investimentos em lobby"
+    ],
+    "quality_threshold": "exhaustive - Esta pesquisa fundamenta alegações críticas sobre ameaças à inteligência nacional, exigindo máximo rigor documental. Cada alegação deve ter múltiplas fontes independentes, privileg iando documentos oficiais, registros públicos e reportagens investigativas com documentação anexa."
+  },
+  
+  "contingency": "Se a primeira iteração revelar lacunas significativas de informação ou casos que necessitem investigação mais profunda, uma terceira iteração focada será implementada com: (1) Solicitações via Lei de Acesso à Informação para órgãos públicos; (2) Análise de documentos vazados/leaked se disponíveis e verificáveis; (3) Entrevistas com fontes primárias citadas em reportagens; (4) Análise forense de metadados de propostas legislativas para rastrear origem. O web-researcher poderá ser redirecionado para investigação específica de casos prioritários identificados."
+}

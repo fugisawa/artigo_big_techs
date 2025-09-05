@@ -72,7 +72,7 @@
 - **Conexão teórica:** Liga tecnologia digital a vulnerabilidades democráticas
 
 ### **Citação Bibliográfica**
-DA EMPOLI, Giuliano. **Os Engenheiros do Caos: como as fake news, as teorias da conspiração e os algoritmos estão sendo utilizados para disseminar ódio, medo e influenciar eleições**. São Paulo: Vestígio, 2019.
+DA EMPOLI, Giuliano. **Os engenheiros do caos: como as fake news, as teorias da conspiração e os algoritmos estão sendo utilizados para disseminar ódio, medo e influenciar eleições**. São Paulo: Vestígio, 2019.
 
 ---
 
@@ -141,9 +141,9 @@ DA EMPOLI, Giuliano. **Os Engenheiros do Caos: como as fake news, as teorias da 
 - **Aplicação ao Brasil:** País como "vassal" no sistema tecno-feudal global
 
 ### **Citação Bibliográfica**
-VAROUFAKIS, Yanis. **Technofeudalism: What Killed Capitalism**. London: Bodley Head, 2023.
+VAROUFAKIS, Yanis. **Another now: dispatches from an alternative present**. London: Bodley Head, 2020.
 
-VAROUFAKIS, Yanis. **Another Now: Dispatches from an Alternative Present**. London: Bodley Head, 2020.
+VAROUFAKIS, Yanis. **Technofeudalism: what killed capitalism**. London: Bodley Head, 2023.
 
 ---
 
@@ -218,7 +218,7 @@ VAROUFAKIS, Yanis. **Another Now: Dispatches from an Alternative Present**. Lond
 - **Evidências empíricas:** Casos concretos de manipulação e seus efeitos sociais
 
 ### **Citação Bibliográfica**
-FISHER, Max. **The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World**. New York: Little, Brown and Company, 2022.
+FISHER, Max. **The chaos machine: the inside story of how social media rewired our minds and our world**. New York: Little, Brown and Company, 2022.
 
 ---
 
@@ -278,7 +278,7 @@ FISHER, Max. **The Chaos Machine: The Inside Story of How Social Media Rewired O
 - **Metodologia:** Testemunhos diretos complementando análises externas
 
 ### **Citação Bibliográfica**
-WYNN-WILLIAMS, Sarah. **Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism**. London: Pan Macmillan, 2025.
+WYNN-WILLIAMS, Sarah. **Careless people: a cautionary tale of power, greed, and lost idealism**. London: Pan Macmillan, 2025.
 
 ---
 
@@ -349,7 +349,7 @@ WYNN-WILLIAMS, Sarah. **Careless People: A Cautionary Tale of Power, Greed, and 
 - **Metodologia aplicável:** Jornalismo investigativo para mapear poder corporativo
 
 ### **Citação Bibliográfica**
-CONGER, Kate; MAC, Ryan. **Character Limit: How Elon Musk Destroyed Twitter**. New York: Penguin Press, 2024.
+CONGER, Kate; MAC, Ryan. **Character limit: how Elon Musk destroyed Twitter**. New York: Penguin Press, 2024.
 
 ---
 

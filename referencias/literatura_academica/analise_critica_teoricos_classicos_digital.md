@@ -349,51 +349,39 @@ Esta análise examina a evolução das teorias sobre poder corporativo e democra
 
 **Coordenação Interinstitucional**: Complexidade do problema exige coordenação entre diferentes agências e setores governamentais.
 
-## Referências Bibliográficas
+## Referências
 
-**Fontes Primárias Clássicas:**
+CONGER, Kate; MAC, Ryan. **Character limit: how Elon Musk destroyed Twitter**. New York: Penguin Press, 2024.
 
-Dahl, R. A. (1961). *Who Governs? Democracy and Power in an American City*. Yale University Press.
+DAHL, Robert Alan. **How democratic is the American Constitution?** New Haven: Yale University Press, 2001.
 
-Dahl, R. A. (1971). *Polyarchy: Participation and Opposition*. Yale University Press.
+DAHL, Robert Alan. **Polyarchy: participation and opposition**. New Haven: Yale University Press, 1971.
 
-Dahl, R. A. (2001). *How Democratic Is the American Constitution?* Yale University Press.
+DAHL, Robert Alan. **Who governs?: democracy and power in an american city**. New Haven: Yale University Press, 1961.
 
-Lindblom, C. E. (1977). *Politics and Markets: The World's Political-Economic Systems*. Basic Books.
+DA EMPOLI, Giuliano. **Os engenheiros do caos: como as fake news, as teorias da conspiração e os algoritmos estão sendo utilizados para disseminar ódio, medo e influenciar eleições**. São Paulo: Vestígio, 2019.
 
-**Literatura Contemporânea - Teoria Política:**
+FISHER, Max. **The chaos machine: the inside story of how social media rewired our minds and our world**. New York: Little, Brown and Company, 2022.
 
-Levitsky, S., & Ziblatt, D. (2018). *How Democracies Die*. Crown Publishing.
+INFORMATION TECHNOLOGY AND INNOVATION FOUNDATION. **A policymaker's guide to the 'techlash': what it is and why it's a threat to growth and progress**. Washington: ITIF, 2019.
 
-Srnicek, N. (2016). *Platform Capitalism*. Polity Press.
+LEVITSKY, Steven; ZIBLATT, Daniel. **How democracies die**. New York: Crown Publishing, 2018.
 
-Wu, T. (2018). *The Curse of Bigness: Antitrust in the New Gilded Age*. Columbia Global Reports.
+LINDBLOM, Charles Edward. **Politics and markets: the world's political-economic systems**. New York: Basic Books, 1977.
 
-Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
+MACHADO, Caio et al. Explaining beliefs in electoral misinformation in the 2022 Brazilian election: the role of ideology, political trust, social media, and messaging apps. **HKS Misinformation Review**, Cambridge, v. 3, n. 4, p. 1-18, 2022.
 
-**Literatura Contemporânea - Big Techs e Democracia Digital:**
+MOZILLA FOUNDATION. **Election manipulation in Brazil's 2022 General Elections**. Mountain View: Mozilla Foundation, 2022. (Global Elections Casebook).
 
-da Empoli, G. (2019). *Os Engenheiros do Caos: Como as Fake News, as Teorias da Conspiração e os Algoritmos Estão Sendo Utilizados para Disseminar Ódio, Medo e Influenciar Eleições*. Vestígio.
+SRNICEK, Nick. **Platform capitalism**. Cambridge: Polity Press, 2016.
 
-Varoufakis, Y. (2023). *Techno-Feudalism: What Killed Capitalism*. The Bodley Head.
+VAROUFAKIS, Yanis. **Technofeudalism: what killed capitalism**. London: The Bodley Head, 2023.
 
-Fisher, M. (2022). *The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World*. Little, Brown and Company.
+WU, Tim. **The curse of bigness: antitrust in the new gilded age**. New York: Columbia Global Reports, 2018.
 
-Conger, K., & Mac, R. (2024). *Character Limit: How Elon Musk Destroyed Twitter*. Penguin Press.
+WYNN-WILLIAMS, Sarah. **Testimonio ante el Subcomité de Protección al Consumidor, Seguridad de Productos y Seguridad de Datos del Senado de los Estados Unidos**. Washington: US Senate, 2021.
 
-**Fontes Especializadas:**
-
-Wynn-Williams, S. (2021). Testimonio ante el Subcomité de Protección al Consumidor, Seguridad de Productos y Seguridad de Datos del Senado de los Estados Unidos.
-
-**Estudos sobre Brasil:**
-
-Machado, C., et al. (2022). "Explaining beliefs in electoral misinformation in the 2022 Brazilian election: The role of ideology, political trust, social media, and messaging apps." *HKS Misinformation Review*.
-
-Mozilla Foundation (2022). "Election Manipulation in Brazil's 2022 General Elections." *Global Elections Casebook*.
-
-**Literatura sobre Techlash:**
-
-Information Technology and Innovation Foundation (2019). "A Policymaker's Guide to the 'Techlash'—What It Is and Why It's a Threat to Growth and Progress."
+ZUBOFF, Shoshana. **The age of surveillance capitalism: the fight for a human future at the new frontier of power**. New York: PublicAffairs, 2019.
 
 ---
 
