@@ -1,0 +1,149 @@
+{
+  "strategy": "Abordagem multi-camada para coleta de casos empíricos sobre interferência das big techs no processo político brasileiro, combinando pesquisa acadêmica para contextualização teórica, pesquisa web para casos recentes e documentação oficial, e análise técnica para compreender mecanismos de interferência. A estratégia prioriza evidências documentadas e verificáveis, com foco em eleições 2018-2022, processos legislativos e casos de moderação de conteúdo.",
+  
+  "iterations_planned": 2,
+  "iterations_rationale": "Duas iterações são necessárias: primeira para descoberta ampla e mapeamento inicial de casos; segunda para aprofundamento em casos-chave, validação de fatos e coleta de documentação primária. Isso permite identificar padrões antes de mergulhar em detalhes específicos.",
+  
+  "researcher_tasks": {
+    "academic-researcher": {
+      "assigned": true,
+      "priority": "high",
+      "tasks": [
+        "Identificar literatura acadêmica sobre eleições brasileiras 2018-2022 e papel das plataformas digitais",
+        "Buscar estudos sobre captura regulatória no contexto do Marco Civil da Internet e PL das Fake News",
+        "Coletar análises acadêmicas sobre moderação de conteúdo e seus impactos democráticos no Brasil",
+        "Identificar frameworks teóricos para análise de interferência política por plataformas digitais"
+      ],
+      "focus_areas": [
+        "Comunicação política e eleições digitais no Brasil",
+        "Estudos de regulação de plataformas digitais",
+        "Teoria de captura regulatória aplicada ao setor tecnológico",
+        "Análises sobre desinformação e polarização política"
+      ],
+      "constraints": [
+        "Priorizar trabalhos peer-reviewed e teses/dissertações de programas reconhecidos",
+        "Focar no período 2016-2024",
+        "Incluir perspectivas tanto críticas quanto favoráveis às plataformas",
+        "Buscar especificamente casos brasileiros ou análises comparativas incluindo o Brasil"
+      ]
+    },
+    
+    "web-researcher": {
+      "assigned": true,
+      "priority": "high",
+      "tasks": [
+        "Coletar reportagens investigativas sobre interferência das big techs nas eleições 2018 e 2022",
+        "Mapear casos documentados de lobby das big techs no Congresso Nacional",
+        "Identificar casos de revolving door entre executivos de big techs e governo brasileiro",
+        "Compilar casos de suspensão de contas e moderação controversa de conteúdo político",
+        "Buscar relatórios do TSE, CPI das Fake News e outras comissões parlamentares"
+      ],
+      "focus_areas": [
+        "Escândalo Cambridge Analytica e conexões brasileiras",
+        "WhatsApp e disparo em massa nas eleições",
+        "Casos de deplatforming de políticos e influenciadores",
+        "Audiências públicas e depoimentos de executivos de big techs",
+        "Decisões judiciais sobre plataformas digitais"
+      ],
+      "constraints": [
+        "Priorizar fontes confiáveis: grandes veículos de imprensa, sites oficiais do governo",
+        "Documentar URLs e datas de acesso para todas as fontes",
+        "Buscar múltiplas fontes para casos controversos",
+        "Evitar blogs opinativos sem fundamentação factual"
+      ]
+    },
+    
+    "technical-researcher": {
+      "assigned": true,
+      "priority": "medium",
+      "tasks": [
+        "Analisar documentação técnica sobre algoritmos de recomendação e seu impacto político",
+        "Investigar mecanismos técnicos de amplificação de conteúdo político",
+        "Examinar APIs e ferramentas de publicidade política das plataformas",
+        "Estudar técnicas de detecção e moderação de conteúdo implementadas no Brasil"
+      ],
+      "focus_areas": [
+        "Algoritmos de recomendação do Facebook, YouTube e Twitter/X",
+        "Ferramentas de microtargeting político",
+        "Criptografia end-to-end do WhatsApp e implicações para moderação",
+        "Transparência algorítmica e auditabilidade"
+      ],
+      "constraints": [
+        "Focar em aspectos técnicos com implicações políticas diretas",
+        "Priorizar informações oficiais das plataformas e pesquisas independentes",
+        "Não especular sobre funcionamento interno não documentado",
+        "Relacionar aspectos técnicos com casos concretos brasileiros"
+      ]
+    },
+    
+    "data-analyst": {
+      "assigned": true,
+      "priority": "medium",
+      "tasks": [
+        "Quantificar alcance e engajamento de conteúdo político nas plataformas",
+        "Analisar dados de transparência eleitoral sobre gastos com publicidade digital",
+        "Mapear tendências de moderação de conteúdo usando relatórios de transparência",
+        "Identificar padrões estatísticos em casos de desinformação eleitoral"
+      ],
+      "focus_areas": [
+        "Dados do TSE sobre propaganda eleitoral online",
+        "Relatórios de transparência das plataformas (2018-2024)",
+        "Métricas de polarização e fragmentação do debate público",
+        "Estatísticas sobre remoção de conteúdo e suspensão de contas"
+      ],
+      "constraints": [
+        "Usar apenas dados públicos e verificáveis",
+        "Documentar metodologia de análise claramente",
+        "Considerar limitações dos dados disponíveis",
+        "Focar em tendências e padrões, não casos isolados"
+      ]
+    }
+  },
+  
+  "integration_plan": "A integração seguirá modelo de triangulação: casos identificados pela pesquisa web serão contextualizados teoricamente pelo pesquisador acadêmico, tecnicamente explicados pelo pesquisador técnico, e quantificados pelo analista de dados. Cada caso será documentado em ficha padronizada contendo: (1) descrição factual do web-researcher, (2) contextualização teórica do academic-researcher, (3) mecanismos técnicos do technical-researcher, (4) dados quantitativos do data-analyst. Casos com evidências convergentes de múltiplas fontes receberão prioridade máxima. Discrepâncias entre fontes serão explicitamente documentadas para análise posterior.",
+  
+  "success_criteria": {
+    "minimum_sources": 50,
+    "sources_rationale": "Mínimo de 50 fontes primárias para garantir robustez: 15 acadêmicas, 20 jornalísticas investigativas, 10 documentos oficiais, 5 técnicas",
+    "coverage_requirements": [
+      "Pelo menos 10 casos documentados de interferência eleitoral (5 por eleição)",
+      "Mínimo 5 casos de captura regulatória com evidências concretas",
+      "Pelo menos 10 casos de moderação controversa com impacto político",
+      "Cobertura de todas as principais plataformas: Meta, Google, X, TikTok",
+      "Documentação de respostas institucionais para cada categoria de caso"
+    ],
+    "quality_threshold": "thorough",
+    "quality_justification": "Nível 'thorough' é essencial dado o impacto do tema na segurança nacional. Cada caso deve ter múltiplas fontes de validação, documentação primária quando disponível, e análise multidimensional (política, técnica, legal)."
+  },
+  
+  "contingency": "Se a primeira iteração revelar gaps significativos em alguma área (ex: falta de dados sobre lobby ou documentação técnica insuficiente), alocaremos uma terceira iteração focada especificamente nesses gaps. Pesquisadores serão redirecionados: web-researcher buscará fontes alternativas (ex: vazamentos, FOIA requests), academic-researcher expandirá busca para literatura internacional com casos similares, technical-researcher poderá fazer engenharia reversa de funcionalidades públicas. Se casos críticos carecerem de validação, acionaremos fact-checkers especializados e buscaremos confirmação através de múltiplas fontes independentes.",
+  
+  "execution_timeline": {
+    "iteration_1": {
+      "duration": "3 dias",
+      "focus": "Descoberta ampla e mapeamento inicial",
+      "deliverables": [
+        "Lista preliminar de casos por categoria",
+        "Mapa inicial de atores e relações",
+        "Identificação de fontes-chave para aprofundamento"
+      ]
+    },
+    "iteration_2": {
+      "duration": "4 dias",
+      "focus": "Aprofundamento e validação",
+      "deliverables": [
+        "Fichas completas para casos prioritários",
+        "Documentação primária coletada",
+        "Análise de padrões e estratégias recorrentes",
+        "Banco de dados estruturado final"
+      ]
+    }
+  },
+  
+  "coordination_notes": {
+    "daily_sync": "Sincronização diária de achados via knowledge graph compartilhado",
+    "deduplication": "Web-researcher coordena para evitar duplicação de esforços",
+    "fact_checking": "Todos os casos críticos passam por validação antes da inclusão final",
+    "documentation": "Cada pesquisador mantém log detalhado de buscas e fontes consultadas"
+  }
+}
