@@ -1,0 +1,156 @@
+{
+  "strategy": "Esta fase requer uma análise tridimensional dos modelos internacionais, capturando não apenas as estruturas regulatórias formais, mas também os mecanismos informais de poder, as capacidades de inteligência específicas e as dinâmicas geopolíticas subjacentes. A distribuição de tarefas priorizará o academic-researcher para frameworks teóricos consolidados, o web-researcher para desenvolvimentos recentes e conflitos em curso, o technical-researcher para aspectos de implementação técnica e arquiteturas de vigilância, e o data-analyst para métricas comparativas de efetividade. Esta abordagem multi-perspectiva é essencial para capturar tanto as lições explícitas quanto as adaptações necessárias ao contexto brasileiro.",
+  
+  "iterations_planned": 2,
+  "iterations_justification": "Duas iterações são necessárias: primeira para mapeamento abrangente dos três modelos principais (EUA, UE, China) e segunda para aprofundamento em instrumentos de inteligência específicos e síntese de lições para o Brasil. Esta estrutura permite descoberta inicial seguida de análise focada em implicações práticas.",
+  
+  "researcher_tasks": {
+    "academic-researcher": {
+      "assigned": true,
+      "priority": "high",
+      "tasks": [
+        "Mapear literatura acadêmica sobre o 'surveillance capitalism' e a simbiose Estado-Vale do Silício nos EUA (Zuboff, Pasquale, Cohen)",
+        "Analisar estudos sobre o 'Brussels Effect' e a estratégia regulatória europeia (Bradford, Fahey, Newman)",
+        "Investigar literatura sobre o modelo de 'cyber sovereignty' chinês e o sistema de crédito social (Creemers, Shen, Jiang)",
+        "Identificar frameworks teóricos de análise comparativa de regimes regulatórios digitais",
+        "Buscar estudos sobre a efetividade de diferentes modelos de governança digital em democracias emergentes"
+      ],
+      "focus_areas": [
+        "Teorias de captura regulatória aplicadas ao setor tech",
+        "Literatura sobre inteligência econômica e tecnológica",
+        "Estudos comparativos de modelos de soberania digital",
+        "Análises de path dependency em regulação tecnológica",
+        "Frameworks de avaliação de capacidades de inteligência cibernética"
+      ],
+      "constraints": [
+        "Priorizar literatura peer-reviewed dos últimos 5 anos",
+        "Focar em estudos que conectem regulação com segurança nacional",
+        "Evitar análises puramente técnicas sem dimensão geopolítica",
+        "Incluir perspectivas do Sul Global quando disponíveis"
+      ]
+    },
+    
+    "web-researcher": {
+      "assigned": true,
+      "priority": "high",
+      "tasks": [
+        "Coletar casos recentes de conflitos entre big techs e governos nacionais (2022-2024)",
+        "Mapear decisões judiciais e regulatórias significativas em cada jurisdição",
+        "Identificar padrões de lobby e influência política das big techs em cada região",
+        "Documentar respostas governamentais a crises específicas (eleições, desinformação, segurança)",
+        "Rastrear desenvolvimentos em curso em legislação e enforcement"
+      ],
+      "focus_areas": [
+        "Casos Facebook/Meta vs. governos nacionais",
+        "Implementação e enforcement do DSA/DMA na Europa",
+        "Confrontos entre Twitter/X e autoridades brasileiras",
+        "Evolução da Section 230 e debates antitruste nos EUA",
+        "Tensões entre empresas ocidentais e regulação chinesa"
+      ],
+      "constraints": [
+        "Focar em fontes primárias e reportagens investigativas",
+        "Priorizar casos com implicações para inteligência nacional",
+        "Verificar informações em múltiplas fontes",
+        "Incluir perspectivas de think tanks especializados"
+      ]
+    },
+    
+    "technical-researcher": {
+      "assigned": true,
+      "priority": "medium",
+      "tasks": [
+        "Analisar arquiteturas técnicas de monitoramento e compliance em cada modelo",
+        "Mapear ferramentas e sistemas de inteligência usados para oversight de plataformas",
+        "Investigar mecanismos de auditoria algorítmica implementados ou propostos",
+        "Estudar infraestruturas de dados soberanos e alternativas nacionais",
+        "Avaliar capacidades técnicas requeridas para enforcement efetivo"
+      ],
+      "focus_areas": [
+        "APIs de transparência e sistemas de auditoria",
+        "Tecnologias de detecção de manipulação e bots",
+        "Arquiteturas de data localization e soberania",
+        "Sistemas de monitoramento de conteúdo em escala",
+        "Ferramentas de análise de redes e influence operations"
+      ],
+      "constraints": [
+        "Focar em soluções implementadas, não apenas propostas",
+        "Avaliar viabilidade técnica para o contexto brasileiro",
+        "Considerar requisitos de capacidade institucional",
+        "Priorizar soluções com documentação disponível"
+      ]
+    },
+    
+    "data-analyst": {
+      "assigned": true,
+      "priority": "medium",
+      "tasks": [
+        "Compilar métricas de efetividade dos diferentes modelos regulatórios",
+        "Analisar dados de transparência das plataformas por jurisdição",
+        "Quantificar investimentos em capacidades de inteligência digital",
+        "Comparar indicadores de manipulação eleitoral e desinformação entre países",
+        "Avaliar correlações entre modelos regulatórios e outcomes democráticos"
+      ],
+      "focus_areas": [
+        "Métricas de compliance e enforcement",
+        "Dados de remoção de conteúdo e suspensão de contas",
+        "Estatísticas de interferência eleitoral detectada",
+        "Indicadores de concentração de mercado",
+        "Medidas de resiliência democrática digital"
+      ],
+      "constraints": [
+        "Usar dados oficiais e relatórios de transparência",
+        "Normalizar métricas para comparação entre países",
+        "Considerar diferenças contextuais na interpretação",
+        "Documentar limitações e vieses dos dados"
+      ]
+    }
+  },
+  
+  "integration_plan": "A integração seguirá um modelo de convergência analítica em três camadas: (1) Síntese horizontal - comparando aspectos similares entre os três modelos para identificar padrões e divergências; (2) Análise vertical - aprofundando em cada modelo para compreender sua lógica interna e condicionantes histórico-institucionais; (3) Projeção adaptativa - traduzindo insights para o contexto brasileiro considerando capacidades institucionais, marco legal, cultura política e posição geopolítica. O academic-researcher fornecerá o framework teórico unificador, o web-researcher contextualizará com desenvolvimentos atuais, o technical-researcher avaliará viabilidade de implementação, e o data-analyst validará conclusões com evidências quantitativas. Conflitos entre fontes serão resolvidos por triangulação e análise de credibilidade relativa.",
+  
+  "success_criteria": {
+    "minimum_sources": 60,
+    "sources_justification": "Mínimo de 20 fontes por modelo principal, combinando literatura acadêmica, documentos oficiais e análises especializadas",
+    "coverage_requirements": [
+      "Mapeamento completo dos instrumentos legais e regulatórios de cada modelo",
+      "Identificação de ao menos 5 casos paradigmáticos de enforcement por jurisdição",
+      "Análise de capacidades institucionais e orçamentárias dedicadas",
+      "Avaliação de efetividade com métricas objetivas",
+      "Proposição de ao menos 10 lições adaptáveis ao Brasil"
+    ],
+    "quality_threshold": "exhaustive",
+    "quality_justification": "Dada a criticidade desta análise para as recomendações finais, é essencial uma cobertura exaustiva que capture nuances, trade-offs e consequências não intencionais de cada modelo"
+  },
+  
+  "contingency": "Se a primeira iteração revelar lacunas significativas ou modelos emergentes relevantes (ex: Índia, Austrália), ativaremos uma terceira iteração focada com redistribuição de recursos. Se dados quantitativos forem insuficientes, o technical-researcher será redirecionado para análise de casos qualitativos. Se conflitos entre fontes forem irreconciliáveis, convocaremos o fact-checker para validação adicional. Em caso de descoberta de modelos híbridos promissores, dedicaremos análise específica para avaliar aplicabilidade ao Brasil.",
+  
+  "iteration_1_specific": {
+    "duration": "3 dias",
+    "focus": "Mapeamento abrangente e caracterização dos três modelos",
+    "deliverables": [
+      "Perfil detalhado do modelo americano de simbiose público-privada",
+      "Análise do framework regulatório europeu e sua implementação",
+      "Compreensão do modelo chinês de controle estatal",
+      "Identificação preliminar de pontos fortes e fracos"
+    ]
+  },
+  
+  "iteration_2_specific": {
+    "duration": "4 dias",
+    "focus": "Instrumentos de inteligência e adaptação brasileira",
+    "deliverables": [
+      "Catálogo de ferramentas e métodos de inteligência por país",
+      "Análise de viabilidade para o contexto brasileiro",
+      "Framework comparativo de efetividade",
+      "Recomendações específicas para a inteligência brasileira"
+    ]
+  },
+  
+  "brazil_adaptation_criteria": {
+    "institutional_capacity": "Avaliar requisitos mínimos de pessoal, tecnologia e orçamento",
+    "legal_compatibility": "Verificar compatibilidade com marco constitucional brasileiro",
+    "political_feasibility": "Considerar viabilidade dado o contexto político atual",
+    "geopolitical_implications": "Analisar impactos nas relações internacionais do Brasil",
+    "societal_acceptance": "Avaliar receptividade da sociedade civil e opinião pública"
+  }
+}
