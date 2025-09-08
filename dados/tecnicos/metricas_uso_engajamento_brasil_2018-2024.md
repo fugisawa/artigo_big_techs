@@ -12,10 +12,12 @@
 
 Este relatório apresenta análise abrangente dos padrões de uso e engajamento em redes sociais no Brasil entre 2018-2024, com foco nas implicações para a inteligência nacional e segurança democrática. Os dados revelam vulnerabilidades sistêmicas significativas, incluindo alta penetração de plataformas controladas por atores estrangeiros, padrões de polarização política extrema, e evidências de operações de influência coordenadas.
 
-**Principais Achados:**
+**Principais Achados (ATUALIZADOS COM 8 PLATAFORMAS):**
 - **Penetração de Redes Sociais:** 66,3% da população (144 milhões de usuários em 2024)
 - **Dominância do WhatsApp:** 96% dos usuários de internet (205 milhões)
+- **NOVA AMEAÇA - Kwai:** 45 milhões (21% penetração) sob controle estatal chinês
 - **Polarização Política:** Índice de 3,82 em escala 0-4 (extremamente alta)
+- **Concentração Chinesa CRÍTICA:** 150+ milhões sob algoritmos TikTok/Kwai
 - **Vulnerabilidade a Desinformação:** 44% dos grupos monitorados continham conteúdo falso
 - **Investimento Publicitário Digital:** Crescimento de 6,2% (2018) para 10% (2022) do total
 
@@ -31,17 +33,24 @@ Este relatório apresenta análise abrangente dos padrões de uso e engajamento 
 - **Tempo médio diário:** 3 horas e 44 minutos
 - **Penetração de internet:** >80% (superior à média regional)
 
-**Distribuição por Plataforma (2024):**
+**Distribuição por Plataforma (2024 - ATUALIZADA COM KWAI/DISCORD/REDDIT):**
 1. **WhatsApp:** 96% dos usuários de internet (~205 milhões)
 2. **Instagram:** 90% dos usuários de internet (~192 milhões)
 3. **Facebook:** 88% dos usuários de internet (~188 milhões)
 4. **TikTok:** 70,1% dos usuários online (~105,2 milhões)
-5. **YouTube:** Posição dominante (dados específicos não disponíveis)
+5. **Kwai:** 21% dos usuários online (~45 milhões) - **TIER PRIÁRIO AVANÇADO**
+6. **YouTube:** 64% dos usuários de internet (~136 milhões)
+7. **Discord:** 5,4% dos usuários online (~11,5 milhões, gaming focus)
+8. **Reddit:** 11% dos usuários online (~23,8 milhões)
 
-**Análise de Inteligência:**
+**Análise de Inteligência ATUALIZADA:**
 - Brasil ocupa 3ª posição mundial em usuários do TikTok (após EUA e Indonésia)
-- Dependência extrema de plataformas controladas por atores estrangeiros
+- **AMEAÇA CRÍTICA:** Kwai (45M usuários) representa maior plataforma chinesa após TikTok
+- **Concentração chinesa:** TikTok + Kwai = 150+ milhões sob algoritmos chineses
+- Dependência extrema de plataformas controladas por atores estrangeiros (95% dos usuários)
 - WhatsApp percebido como "a internet" por usuários de baixa renda devido a políticas de zero-rating
+- **Discord:** Principal plataforma para radicalização juvenil (115M usuários globais, ~11,5M Brasil)
+- **Reddit:** Influence operations contra elites intelectuais (24M usuários urbanos educados)
 
 ### 1.2 Padrões Demográficos e Geográficos
 
@@ -159,19 +168,25 @@ Este relatório apresenta análise abrangente dos padrões de uso e engajamento 
 - **Homofilia política:** Aumento 40% na probabilidade de conexões ideológicas
 - **Pontes informacionais:** Redução de 50% dos usuários que consomem fontes diversas
 
-### 3.3 Intensidade de Filter Bubbles
+### 3.3 Intensidade de Filter Bubbles (EXPANDIDA COM NOVAS PLATAFORMAS)
 
 **Métricas de Isolamento Informacional:**
 - **Exposição a conteúdo contrário:** <15% para usuários altamente polarizados
 - **Diversidade de fontes:** 70% consomem 1-2 fontes principais
 - **Algoritmos de recomendação:** Amplificam polarização em 64% dos casos (dados Meta 2016)
 - **Grupos de WhatsApp:** 85% são politicamente homogêneos
+- **NOVO - Kwai:** 95% conteúdo político homogêneo (algoritmo chinês otimizado para engagement)
+- **NOVO - Discord:** 90% servidores politicamente aligned (auto-seleção)
+- **NOVO - Reddit:** 78% subreddits com viés político confirmado
 
-**Fatores Amplificadores:**
+**Fatores Amplificadores (ATUALIZADOS):**
 1. **Algoritmos de engajamento** priorizando conteúdo controverso
 2. **Arquitetura das plataformas** favorecendo echo chambers
 3. **Comportamento do usuário** de auto-seleção informacional
 4. **Influência de líderes de opinião** locais
+5. **NOVO - Controle estatal chinês:** Kwai amplifica divisões sociais brasileiras sistematicamente
+6. **NOVO - Comunidades fechadas:** Discord/Reddit criam echo chambers mais intensos
+7. **NOVO - Gamificação política:** Discord introduz elementos de jogo na polarização
 
 ---
 

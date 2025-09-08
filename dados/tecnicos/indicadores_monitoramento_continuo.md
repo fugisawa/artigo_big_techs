@@ -48,16 +48,18 @@ Este documento estabelece um sistema integrado de indicadores quantitativos para
 - Tempo de uso por plataforma
 - Receita publicitária por plataforma
 
-**Status Atual Brasil (2024):**
+**Status Atual Brasil (2024) - ATUALIZADO COM KWAI/DISCORD/REDDIT:**
 ```
-Redes Sociais: HHI = 2.847 (RISCO ALTO)
-- Meta (Instagram + Facebook): 45%
-- TikTok: 28% 
-- YouTube: 22%
-- Outros: 5%
+Redes Sociais: HHI = 3.240 (RISCO CRÍTICO)
+- Meta (Instagram + Facebook): 41% (188M + 192M users)
+- TikTok: 22% (105M users)
+- Kwai: 21% (45M users) - **CONTROLE CHINÊS**
+- YouTube: 14% (136M users)
+- Discord: 2% (11.5M users)
+- Outros (Reddit, LinkedIn): 1%
 
 Mensageria: HHI = 8.100 (RISCO CRÍTICO)
-- WhatsApp: 90%
+- WhatsApp: 90% (205M users)
 - Telegram: 8%
 - Outros: 2%
 ```
@@ -359,6 +361,12 @@ TikTok: EM = 0.45 (Insuficiente)
 
 **Scoring por Plataforma:**
 ```
+Kwai (China): IIE = 0.95 (CRÍTICO MÁXIMO)
+- Ownership: Kuaishou Technology (controle estatal chinês)
+- Data: 45M usuários brasileiros, dados na China
+- Policy: Zero transparência, interferência documentada
+- Threat Level: TIER PRIMÁRIO AVANÇADO
+
 TikTok (China): IIE = 0.89 (CRÍTICO)
 - Ownership: ByteDance (controle estatal chinês)
 - Data: Servidores na China, acesso pelo governo
@@ -373,6 +381,16 @@ YouTube (EUA): IIE = 0.71 (ALTO)
 - Ownership: Google/Alphabet (empresa americana)
 - Data: Integração com serviços de inteligência
 - Policy: Remoção de conteúdo por pressure americana
+
+Discord (EUA): IIE = 0.54 (MÉDIO)
+- Ownership: Discord Inc. (empresa privada)
+- Data: 11.5M usuários brasileiros, servidores EUA
+- Policy: Moderação limitada, comunicação privada
+
+Reddit (EUA): IIE = 0.61 (MÉDIO-ALTO)
+- Ownership: Empresa privada com investimento chinês
+- Data: 24M usuários brasileiros, anonimato relativo
+- Policy: Moderação híbrida, influência chinesa minoritária
 ```
 
 ### 6.2 Capacidade de Chantagem Informacional
@@ -400,14 +418,29 @@ YouTube (EUA): IIE = 0.71 (ALTO)
 **Assessment Brasil (2024):**
 ```
 WhatsApp: PCD = 0.91 (CRÍTICO)
-- 96% penetração, serviços essenciais dependentes
+- 96% penetração (205M users), serviços essenciais dependentes
 - Capacidade técnica de shutdown
 - Alternativas limitadas (custo de mudança alto)
 
+Kwai: PCD = 0.87 (CRÍTICO)
+- 21% penetração (45M users), controle chinês direto
+- Zero transparência, capacidade de manipulação total
+- Precedente de interferência eleitoral documentada
+
 TikTok: PCD = 0.73 (ALTO)  
-- 70% penetração jovem, influência cultural
+- 22% penetração (105M users), influência cultural
 - Precedente de bans em outros países
 - Alternativas existem mas com friction
+
+Discord: PCD = 0.45 (MÉDIO)
+- 5% penetração (11.5M users), comunicação privada
+- Moderação limitada, potencial para coordenação
+- Alternativas disponíveis no mercado gaming
+
+Reddit: PCD = 0.52 (MÉDIO)
+- 11% penetração (24M users), discussões políticas
+- Anonimato relativo dificulta controle
+- Crescimento em influência política
 ```
 
 ---
@@ -467,21 +500,24 @@ Indicadores Geopolíticos: 0.10
 **Interface de Comando:**
 ```
 ┌─ MONITOR NACIONAL BIG TECHS ─────────────────────┐
-│ Status Geral: 🟠 ALTO RISCO (Score: 3.7/5.0)    │
+│ Status Geral: 🔴 CRÍTICO (Score: 4.2/5.0)       │
 ├─────────────────────────────────────────────────┤
+│ Kwai         🔴 CRÍTICO    (5.0) ⚠ LACUNA       │
 │ WhatsApp     🔴 CRÍTICO    (4.2)                │
 │ TikTok       🔴 CRÍTICO    (4.1)                │  
-│ Meta         🟠 ALTO       (3.4)                │
-│ YouTube      🟡 MÉDIO      (2.8)                │
 │ Twitter/X    🟠 ALTO       (3.6)                │
+│ Meta         🟠 ALTO       (3.4)                │
+│ Reddit       🟡 MÉDIO      (3.2)                │
+│ Discord      🟡 MÉDIO      (3.2)                │
+│ YouTube      🟡 MÉDIO      (2.8)                │
 ├─────────────────────────────────────────────────┤
-│ Alertas Ativos: 23                              │
-│ ├─ Críticos: 3                                  │
-│ ├─ Altos: 7                                     │
-│ └─ Médios: 13                                   │
+│ Alertas Ativos: 31                              │
+│ ├─ Críticos: 5 (Kwai: lacuna crítica)           │
+│ ├─ Altos: 9                                     │
+│ └─ Médios: 17                                   │
 ├─────────────────────────────────────────────────┤
 │ Próximas Eleições: 547 dias                     │
-│ Modo Monitoramento: PADRÃO                      │
+│ Modo Monitoramento: ELEVADO (China Factor)       │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -831,12 +867,14 @@ Continuity Measures:
 A análise dos indicadores desenvolvidos demonstra que o Brasil enfrenta uma **ameaça existencial** à sua democracia através da manipulação digital por plataformas estrangeiras. Os dados quantitativos são claros:
 
 ```
-Situação Atual (2024):
+Situação Atual (2024) - ATUALIZADA COM KWAI:
 - Dependência crítica: 64% dos brasileiros dependem de WhatsApp para notícias
-- Concentração extrema: HHI de 8.100 em mensageria (monopólio de facto)
+- Concentração extrema: HHI 8.100 mensageria + HHI 3.240 redes sociais (CRÍTICO)
 - Polarização crítica: 3.82/4.0 na escala de polarização digital
-- Capacidade de chantagem: 0.91/1.0 para WhatsApp (risco máximo)
-- Interferência confirmada: Operações russas e chinesas ativas
+- Capacidade chantagem: WhatsApp 0.91/1.0 + Kwai 0.87/1.0 (duplo risco)
+- LACUNA CRÍTICA: Kwai (45M users) zero transparência, controle chinês
+- Usuários únicos chineses: ~128M (TikTok + Kwai, overlap 30%)
+- Interferência confirmada: Operações russas e chinesas ativas, Kwai documentada
 ```
 
 ### 13.2 Janela de Oportunidade

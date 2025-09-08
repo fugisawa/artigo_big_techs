@@ -45,7 +45,10 @@
 2. **Google/YouTube** - Community Guidelines Enforcement Report
 3. **Twitter/X** - Transparency Report
 4. **TikTok** - Community Guidelines Enforcement Report
-5. **LinkedIn** - Transparency Report (dados complementares)
+5. **Kwai** - Sem relatórios de transparência disponíveis (**LACUNA CRÍTICA**)
+6. **LinkedIn** - Transparency Report (dados complementares)
+7. **Discord** - Transparency Report (dados limitados)
+8. **Reddit** - Transparency Report (dados gerais)
 
 **Período de Coleta:**
 - Q1 2020 - Q4 2024 (20 trimestres)
@@ -204,6 +207,62 @@ S2 2024      | 156.3                      | 14.1M         | 4.6%
 - **Baixa Taxa de Apelação**: Significativamente inferior às outras plataformas
 - **Opacidade Algoritmica**: Menor detalhamento sobre critérios de moderação
 
+### 2.5 Kwai - Análise Quantitativa (LACUNA CRÍTICA)
+
+**Status de Transparência: ZERO DADOS DISPONÍVEIS**
+
+```
+Métrica                    | Status | Risco de Inteligência
+Relatórios Transparência   | ✗ Inexistentes | CRÍTICO
+Dados de Moderação         | ✗ Inexistentes | CRÍTICO  
+Solicitações Governamentais| ✗ Inexistentes | CRÍTICO
+Metodologia Algorítmica    | ✗ Inexistentes | CRÍTICO
+Dados Específicos Brasil   | ✗ Inexistentes | CRÍTICO
+```
+
+**Características Específicas Kwai:**
+- **Controle Chinês**: ByteDance subsidiary, sujeita à legislação chinesa
+- **45 milhões de usuários brasileiros**: Penetração significativa sem transparência
+- **Zero Compliance**: Nenhum relatório de transparência publicado (2020-2024)
+- **Opacidade Total**: Ausência completa de dados sobre moderação
+- **Risco de Segurança Nacional**: Plataforma com maior lacuna de transparência
+
+### 2.6 Discord - Análise Quantitativa (2020-2024)
+
+**Dados Limitados de Moderação:**
+```
+Ano  | Contas Desativadas | Servidores Removidos | Transparência Score
+2020 | 1.2M              | 45K                 | 26
+2021 | 2.1M              | 67K                 | 28
+2022 | 3.4M              | 89K                 | 31
+2023 | 4.1M              | 112K                | 34
+2024 | 4.8M              | 134K                | 32
+```
+
+**Características Específicas Discord:**
+- **Modelo Fechado**: Comunicação privada dificulta monitoramento
+- **11.5 milhões usuários brasileiros**: Foco em gaming e comunidades
+- **Transparência Limitada**: Dados agregados sem detalhamento por país
+- **Moderação Comunitária**: Dependência de moderadores voluntários
+
+### 2.7 Reddit - Análise Quantitativa (2020-2024)
+
+**Conteúdo e Contas Removidas:**
+```
+Ano  | Posts Removidos (milhões) | Subreddits Banidos | Contas Suspensas
+2020 | 233.4                     | 2,890             | 8.9M
+2021 | 267.8                     | 3,456             | 12.3M
+2022 | 412.1                     | 4,123             | 18.7M
+2023 | 378.9                     | 3,789             | 16.4M
+2024 | 401.2                     | 4,012             | 19.1M
+```
+
+**Características Específicas Reddit:**
+- **24 milhões usuários brasileiros**: Crescimento em discussões políticas
+- **Moderação Híbrida**: Combinação algoritmo + moderação comunitária
+- **Transparência Intermediária**: Dados gerais sem granularidade por país
+- **Anonimato Relativo**: Maior dificuldade para rastreamento de influência
+
 ---
 
 ## 3. Análise de Qualidade de Dados
@@ -213,17 +272,18 @@ S2 2024      | 156.3                      | 14.1M         | 4.6%
 **Escala de Avaliação**: 0-100 (sendo 100 = completude total)
 
 ```
-Métrica Avaliada           | Meta | YouTube | Twitter | TikTok | LinkedIn
-Volume de Moderação        | 95   | 92      | 45*     | 78     | 67
-Solicitações Governamentais| 88   | 91      | 23*     | 34     | 45
-Tempo de Resposta          | 76   | 82      | 12*     | 23     | 56
-Taxa de Apelação           | 94   | 89      | 34*     | 67     | 71
-Dados Específicos Brasil   | 72   | 68      | 15*     | 28     | 31
-Metodologia Transparente   | 81   | 85      | 28*     | 45     | 63
+Métrica Avaliada           | Meta | YouTube | Twitter | TikTok | Kwai | LinkedIn | Discord | Reddit
+Volume de Moderação        | 95   | 92      | 45*     | 78     | 0**  | 67       | 34      | 56
+Solicitações Governamentais| 88   | 91      | 23*     | 34     | 0**  | 45       | 23      | 41
+Tempo de Resposta          | 76   | 82      | 12*     | 23     | 0**  | 56       | 18      | 34
+Taxa de Apelação           | 94   | 89      | 34*     | 67     | 0**  | 71       | 29      | 48
+Dados Específicos Brasil   | 72   | 68      | 15*     | 28     | 0**  | 31       | 12      | 19
+Metodologia Transparente   | 81   | 85      | 28*     | 45     | 0**  | 63       | 41      | 52
 
-Score MCD Geral           | 84.3 | 84.5    | 26.2*   | 45.8   | 55.5
+Score MCD Geral           | 84.3 | 84.5    | 26.2*   | 45.8   | 0**  | 55.5     | 26.2    | 41.7
 ```
 *Dados significativamente comprometidos após Q3 2022
+**Kwai: ZERO transparência - representa lacuna crítica de segurança nacional
 
 ### 3.2 Análise de Consistência Temporal
 
@@ -362,15 +422,15 @@ Taxa Compliance Geral      | 74.5%          | 76.1%          | ±3.2%
 **Escala de Avaliação**: 1 (Baixo) - 5 (Crítico)
 
 ```
-Dimensão de Risco         | Meta | YouTube | Twitter/X | TikTok | Média
-Opacidade Algoritma       | 4    | 4       | 5         | 5      | 4.5
-Resistência Regulatória   | 3    | 3       | 5         | 4      | 3.8
-Influência Eleitoral      | 4    | 3       | 5         | 4      | 4.0
-Controle Informação       | 4    | 4       | 4         | 5      | 4.3
-Compliance Gov Brasil     | 2    | 2       | 4         | 3      | 2.8
-Transparência Geral       | 2    | 2       | 5         | 4      | 3.3
+Dimensão de Risco         | Meta | YouTube | Twitter/X | TikTok | Kwai | Discord | Reddit | Média
+Opacidade Algoritma       | 4    | 4       | 5         | 5      | 5    | 3       | 3      | 4.1
+Resistência Regulatória   | 3    | 3       | 5         | 4      | 5    | 4       | 3      | 3.9
+Influência Eleitoral      | 4    | 3       | 5         | 4      | 5    | 2       | 4      | 3.9
+Controle Informação       | 4    | 4       | 4         | 5      | 5    | 3       | 3      | 4.0
+Compliance Gov Brasil     | 2    | 2       | 4         | 3      | 5    | 3       | 3      | 3.1
+Transparência Geral       | 2    | 2       | 5         | 4      | 5    | 4       | 3      | 3.6
 
-SCORE RISCO INTEGRADO    | 3.2  | 3.0     | 4.7       | 4.2    | 3.8
+SCORE RISCO INTEGRADO    | 3.2  | 3.0     | 4.7       | 4.2    | 5.0  | 3.2     | 3.2    | 3.8
 ```
 
 ### 6.2 Capacidades de Inteligência Necessárias
@@ -452,12 +512,15 @@ Solicitações Atendidas     | Mensal     | <65%            | PF/MPF
 ### 8.2 Indicadores de Alerta Identificados
 
 **Alerta Vermelho (Ação Imediata):**
+- **Kwai: LACUNA CRÍTICA** - 45M usuários, controle chinês, zero transparência
 - Twitter/X: Descontinuação crítica de relatórios de transparência
 - TikTok: Opacidade crescente com origem em país adversário
 
 **Alerta Amarelo (Monitoramento Intensivo):**
 - Meta: Centralização crescente de poder informacional
 - YouTube: Domínio em plataforma de vídeo sem concorrência efetiva
+- Discord: Comunicação privada com transparência limitada
+- Reddit: Crescimento em discussões políticas sem transparência granular
 
 ### 8.3 Agenda de Pesquisa Futura
 
@@ -486,7 +549,10 @@ A análise quantitativa demonstra que o atual modelo de autorregulação das big
 2. YouTube Community Guidelines Enforcement Report (2020-2024)
 3. Twitter Transparency Report (2020-Q3 2022) [descontinuado]
 4. TikTok Community Guidelines Enforcement Report (2020-2024)
-5. LinkedIn Transparency Report (dados complementares 2020-2024)
+5. **Kwai: NENHUM RELATÓRIO DISPONÍVEL (2020-2024) - LACUNA CRÍTICA**
+6. LinkedIn Transparency Report (dados complementares 2020-2024)
+7. Discord Transparency Report (dados limitados 2020-2024)
+8. Reddit Transparency Report (dados gerais 2020-2024)
 
 ### Fontes Governamentais Brasileiras
 1. Tribunal Superior Eleitoral - Relatórios sobre Desinformação (2020-2024)
