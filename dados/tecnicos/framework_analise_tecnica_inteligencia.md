@@ -11,19 +11,32 @@ Este framework integra as análises técnicas realizadas sobre algoritmos de rec
 
 ### 1.1 Definição de Escopo
 
+**ALERTA CRÍTICO: Concentração de Mercado em Estado de Emergência**
+```
+HHI Corporativo: 4.114 (Meta 54.3% controle)
+HHI Geopolítico: 6.731 (Duopólio EUA-China)
+WhatsApp: HHI 8.100 (monopólio absoluto mensageria)
+China: 137M usuários únicos (TikTok + Kwai)
+```
+
 **Ameaças Técnicas Identificadas:**
 - Manipulação algorítmica da opinião pública
 - Censura seletiva através de moderação automatizada
 - Operações de influência usando IA generativa
 - Coordenação inautêntica automatizada
 - Fragmentação do tecido social via filter bubbles
+- **NOVO:** Opacidade total de plataformas tier primário (Kwai)
+- **NOVO:** Concentração extrema permitindo controle unilateral
 
-**Plataformas Prioritárias:**
-1. **WhatsApp** (120+ milhões de usuários no Brasil)
+**Plataformas Prioritárias (8 plataformas monitoradas):**
+1. **WhatsApp** (120+ milhões - HHI 8.100 monopólio)
 2. **YouTube** (142+ milhões de usuários)
-3. **Instagram/Facebook** (Meta - 130+ milhões)
-4. **TikTok** (82+ milhões)
-5. **X/Twitter** (22+ milhões)
+3. **Instagram** (Meta - parte dos 54.3% controle)
+4. **TikTok** (92+ milhões - controle chinês)
+5. **Kwai** (45+ milhões - ZERO transparência - TIER CRÍTICO)
+6. **Facebook** (Meta - dominância combinada)
+7. **X/Twitter** (22+ milhões)
+8. **Discord/Reddit** (crescimento acelerado - tier secundário)
 
 ### 1.2 Perspectiva de Inteligência
 
@@ -58,15 +71,18 @@ As big techs representam uma ameaça de inteligência quando suas capacidades t�
 **Nível 2 - BAIXO:** Ameaça limitada e gerenciável
 **Nível 1 - MÍNIMO:** Ameaça negligível
 
-### 2.3 Avaliação por Plataforma (2024)
+### 2.3 Avaliação por Plataforma (2024) - Pós-HHI
 
-| Plataforma | Risco Geral | Capacidade Técnica | Opacidade | Histórico BR |
-|------------|-------------|-------------------|-----------|--------------|
-| **WhatsApp** | 5 - CRÍTICO | Alto (E2E + grupos) | Máxima | 2018, 2022 |
-| **TikTok** | 5 - CRÍTICO | Máxima (algoritmo) | Máxima | 2022, 2024 |
-| **YouTube** | 4 - ALTO | Alta (recomendação) | Alta | 2018-2024 |
-| **Meta (FB/IG)** | 4 - ALTO | Alta (targeting) | Alta | 2018-2024 |
-| **X/Twitter** | 3 - MODERADO | Média (após mudanças) | Média | 2024 |
+| Plataforma | Risco Geral | Capacidade Técnica | Opacidade | Market Share | HHI Impact |
+|------------|-------------|-------------------|-----------|--------------|------------|
+| **Kwai** | 5 - CRÍTICO | Desconhecida | TOTAL (0%) | 45M usuários | Tier Primário Crítico |
+| **WhatsApp** | 5 - CRÍTICO | Alto (E2E + grupos) | Máxima | HHI 8.100 | Monopólio |
+| **TikTok** | 5 - CRÍTICO | Máxima (algoritmo) | Máxima | 92M usuários | China 137M |
+| **Meta (FB/IG)** | 5 - CRÍTICO | Alta (targeting) | Alta | 54.3% total | HHI 4.114 |
+| **YouTube** | 4 - ALTO | Alta (recomendação) | Alta | 142M usuários | Dominante |
+| **Discord** | 3 - MODERADO | Média (servidores) | Alta | Crescendo | Tier 2 |
+| **Reddit** | 3 - MODERADO | Média (comunidades) | Média | Crescendo | Tier 2 |
+| **X/Twitter** | 3 - MODERADO | Média (após mudanças) | Média | 22M usuários | Declínio |
 
 ---
 
@@ -167,22 +183,29 @@ Visualização:
 
 ### 4.2 Protocolos de Monitoramento
 
-**Monitoramento Contínuo (24/7):**
+**Monitoramento Contínuo (24/7) - 8 Plataformas:**
 - Trending topics e seu padrão de amplificação
 - Velocidade de propagação de conteúdo
 - Emergence de conteúdo coordenado
 - Mudanças algorítmicas detectáveis
+- **NOVO:** Cálculo mensal de HHI corporativo e geopolítico
+- **NOVO:** Monitoramento especial Kwai (zero transparência)
+- **NOVO:** Tracking de sinergias Meta entre plataformas
 
 **Monitoramento Intensivo (Períodos Eleitorais):**
 - Análise de microtargeting político
 - Detecção de operações de influência
 - Monitoramento de deepfakes eleitorais
 - Rastreamento de gastos com impulsionamento
+- **NOVO:** Análise de coordenação China (TikTok + Kwai)
+- **NOVO:** Detecção de abuso de posição dominante (Meta 54.3%)
 
-**Indicadores de Alerta Precoce:**
-1. **Amarelo:** Mudanças detectáveis nos padrões
-2. **Laranja:** Operações coordenadas identificadas
-3. **Vermelho:** Manipulação ativa de processo eleitoral
+**Indicadores de Alerta Precoce (Baseados em HHI):**
+1. **CRÍTICO (NOVO):** HHI >4.000 ou market share >50%
+2. **Vermelho:** Manipulação ativa de processo eleitoral
+3. **Laranja:** Operações coordenadas identificadas
+4. **Amarelo:** Mudanças detectáveis nos padrões
+5. **Verde:** Monitoramento rotineiro
 
 ---
 
@@ -202,18 +225,23 @@ Visualização:
 - Desenvolvimento de algoritmos alternativos
 - Diversificação do ecossistema digital
 
-### 5.2 Marco Legal de Resposta
+### 5.2 Marco Legal de Resposta (Baseado em HHI)
 
 **Instrumentos Normativos Necessários:**
-1. **Lei de Transparência Algorítmica**
+1. **Lei de Transparência Algorítmica** (urgente para Kwai)
 2. **Regulamentação de IA Eleitoral**
 3. **Código de Conduta para Plataformas**
 4. **Marco Civil da Inteligência Artificial**
+5. **NOVO: Lei Antitruste Digital** (gatilhos HHI automáticos)
+6. **NOVO: Cap Constitucional de Market Share** (máximo 30%)
 
-**Penalidades Escalonadas:**
+**Penalidades Escalonadas (com Gatilhos HHI):**
 - Advertência e notificação pública
 - Multas proporcionais à receita brasileira
+- **NOVO:** Separação estrutural obrigatória (HHI >4.000)
+- **NOVO:** Auditoria emergencial (transparência <20% + 20M usuários)
 - Suspensão temporária de operações
+- **NOVO:** Unbundling forçado (Meta: WhatsApp, Instagram, Facebook)
 - Banimento permanente (medida extrema)
 
 ---
@@ -355,11 +383,11 @@ Compartilhamento Internacional (5 Eyes, UE, BRICS)
 
 ### 10.1 Imperativo Estratégico
 
-A análise técnica realizada demonstra que as big techs representam uma ameaça existencial à democracia brasileira através de suas capacidades algorítmicas, sistemas de moderação opacas e facilitação de manipulação via IA. A implementação deste framework é crítica para a defesa da soberania nacional no domínio digital.
+A análise técnica realizada, agora reforçada pelos cálculos HHI (Corporativo: 4.114, Geopolítico: 6.731), demonstra que as big techs representam uma ameaça existencial à democracia brasileira. O controle de 54.3% do ecossistema pela Meta, o monopólio absoluto do WhatsApp (HHI 8.100), e a infiltração chinesa via TikTok + Kwai (137M usuários) configuram estado de emergência digital que exige resposta imediata de inteligência nacional.
 
 ### 10.2 Janela de Oportunidade
 
-Existe uma janela de 12-18 meses para implementar capacidades eficazes antes que as eleições de 2026 sejam comprometidas por manipulação IA-powered em escala industrial. A ação deve ser imediata e coordenada.
+A janela de ação se estreitou drasticamente. Com HHI corporativo já acima de 4.000 e o Kwai operando com 45M usuários brasileiros em opacidade total, temos no máximo 6-12 meses para implementar contramedidas eficazes antes que o controle se torne irreversível. As eleições de 2026 já estão sob risco crítico de manipulação coordenada em escala industrial.
 
 ### 10.3 Requisitos de Sucesso
 

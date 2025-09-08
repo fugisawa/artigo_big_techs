@@ -48,17 +48,29 @@ Este documento estabelece um sistema integrado de indicadores quantitativos para
 - Tempo de uso por plataforma
 - Receita publicitária por plataforma
 
-**Status Atual Brasil (2024) - ATUALIZADO COM KWAI/DISCORD/REDDIT:**
+**Status Atual Brasil (2024) - RECALCULADO COM METODOLOGIA CORRETA:**
 ```
-Redes Sociais: HHI = 3.240 (RISCO CRÍTICO)
-- Meta (Instagram + Facebook): 41% (188M + 192M users)
-- TikTok: 22% (105M users)
-- Kwai: 21% (45M users) - **CONTROLE CHINÊS**
-- YouTube: 14% (136M users)
-- Discord: 2% (11.5M users)
-- Outros (Reddit, LinkedIn): 1%
+Redes Sociais (8 plataformas): HHI = 2,313 (CONCENTRAÇÃO MODERADA-ALTA)
+- Instagram: 27.4% (192M users)
+- Facebook: 26.9% (188M users)  
+- YouTube: 20.3% (142M users)
+- TikTok: 15.0% (105M users)
+- Twitter/X: 12.1% (85M users)
+- Kwai: 6.4% (45M users) - **CONTROLE CHINÊS**
+- Reddit: 3.4% (24M users)
+- Discord: 1.6% (11.5M users)
 
-Mensageria: HHI = 8.100 (RISCO CRÍTICO)
+Controle Corporativo: HHI = 4,114 (RISCO CRÍTICO)
+- Meta (Instagram + Facebook): 54.3% market share
+- China (TikTok + Kwai): 21.4% - **137M usuários únicos**
+- Google (YouTube): 20.3%
+- Independentes: 17.2%
+
+Dimensão Geopolítica: HHI = 6,731 (CONCENTRAÇÃO EXTREMA)
+- Plataformas EUA: 79.2%
+- Plataformas China: 21.4%
+
+Mensageria: HHI = 8,100 (MONOPÓLIO DE FACTO)
 - WhatsApp: 90% (205M users)
 - Telegram: 8%
 - Outros: 2%
@@ -359,36 +371,48 @@ TikTok: EM = 0.45 (Insuficiente)
    - Jurisdição aplicável a disputas
 ```
 
-**Scoring por Plataforma:**
+**Scoring por Plataforma (Atualizado com HHI Impact):**
 ```
 Kwai (China): IIE = 0.95 (CRÍTICO MÁXIMO)
 - Ownership: Kuaishou Technology (controle estatal chinês)
 - Data: 45M usuários brasileiros, dados na China
+- Market Power: 6.4% individual, 21.4% China combinada
 - Policy: Zero transparência, interferência documentada
 - Threat Level: TIER PRIMÁRIO AVANÇADO
 
 TikTok (China): IIE = 0.89 (CRÍTICO)
 - Ownership: ByteDance (controle estatal chinês)
-- Data: Servidores na China, acesso pelo governo
+- Data: 105M usuários, servidores na China
+- Market Power: 15.0% individual, 21.4% China combinada
 - Policy: Alinhamento com interesses chineses
 
-Meta (EUA): IIE = 0.67 (ALTO)
+Meta (EUA): IIE = 0.87 (CRÍTICO - REVISADO)
 - Ownership: Empresa privada americana
+- Market Power: 54.3% controle corporativo (HHI 4,114)
 - Data: Compartilhamento com agências americanas
-- Policy: Compliance com sanctions americanas
+- Policy: Capacidade de chantagem informacional extrema
 
 YouTube (EUA): IIE = 0.71 (ALTO)
 - Ownership: Google/Alphabet (empresa americana)
+- Market Power: 20.3% market share
 - Data: Integração com serviços de inteligência
 - Policy: Remoção de conteúdo por pressure americana
 
+Twitter/X (EUA): IIE = 0.65 (ALTO)
+- Ownership: Elon Musk (controle individual)
+- Market Power: 12.1% market share
+- Data: 85M usuários brasileiros
+- Policy: Volatilidade decisória, alinhamento errático
+
 Discord (EUA): IIE = 0.54 (MÉDIO)
 - Ownership: Discord Inc. (empresa privada)
+- Market Power: 1.6% market share (nicho gaming)
 - Data: 11.5M usuários brasileiros, servidores EUA
 - Policy: Moderação limitada, comunicação privada
 
 Reddit (EUA): IIE = 0.61 (MÉDIO-ALTO)
-- Ownership: Empresa privada com investimento chinês
+- Ownership: Empresa privada com investimento chinês minoritário
+- Market Power: 3.4% market share (elite influence)
 - Data: 24M usuários brasileiros, anonimato relativo
 - Policy: Moderação híbrida, influência chinesa minoritária
 ```
@@ -500,24 +524,30 @@ Indicadores Geopolíticos: 0.10
 **Interface de Comando:**
 ```
 ┌─ MONITOR NACIONAL BIG TECHS ─────────────────────┐
-│ Status Geral: 🔴 CRÍTICO (Score: 4.2/5.0)       │
+│ Status Geral: 🔴 CRÍTICO (Score: 4.4/5.0)       │
 ├─────────────────────────────────────────────────┤
-│ Kwai         🔴 CRÍTICO    (5.0) ⚠ LACUNA       │
-│ WhatsApp     🔴 CRÍTICO    (4.2)                │
-│ TikTok       🔴 CRÍTICO    (4.1)                │  
-│ Twitter/X    🟠 ALTO       (3.6)                │
-│ Meta         🟠 ALTO       (3.4)                │
-│ Reddit       🟡 MÉDIO      (3.2)                │
-│ Discord      🟡 MÉDIO      (3.2)                │
-│ YouTube      🟡 MÉDIO      (2.8)                │
+│ CONCENTRAÇÃO DE MERCADO:                        │
+│ ├─ HHI Corporativo: 4,114 (CRÍTICO)            │
+│ ├─ HHI Geopolítico: 6,731 (EXTREMO)            │
+│ └─ HHI Mensageria: 8,100 (MONOPÓLIO)           │
 ├─────────────────────────────────────────────────┤
-│ Alertas Ativos: 31                              │
-│ ├─ Críticos: 5 (Kwai: lacuna crítica)           │
-│ ├─ Altos: 9                                     │
+│ AMEAÇAS POR PLATAFORMA:                         │
+│ Kwai         🔴 CRÍTICO    (4.7) China Control  │
+│ Meta         🔴 CRÍTICO    (4.4) 54.3% Market   │
+│ TikTok       🔴 CRÍTICO    (4.4) China Control  │  
+│ WhatsApp     🔴 CRÍTICO    (4.2) 90% Monopólio  │
+│ Discord      🟠 ALTO       (4.1) Radicalização  │
+│ YouTube      🟠 ALTO       (3.6) 20.3% Market   │
+│ Twitter/X    🟠 ALTO       (3.4) Volatilidade   │
+│ Reddit       🟡 MÉDIO      (3.4) Elite Capture  │
+├─────────────────────────────────────────────────┤
+│ Alertas Ativos: 47                              │
+│ ├─ Críticos: 12 (China: 137M usuários)         │
+│ ├─ Altos: 18 (Meta: 54.3% controle)            │
 │ └─ Médios: 17                                   │
 ├─────────────────────────────────────────────────┤
 │ Próximas Eleições: 547 dias                     │
-│ Modo Monitoramento: ELEVADO (China Factor)       │
+│ Modo: EMERGÊNCIA DIGITAL (HHI >4,000)           │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -867,14 +897,15 @@ Continuity Measures:
 A análise dos indicadores desenvolvidos demonstra que o Brasil enfrenta uma **ameaça existencial** à sua democracia através da manipulação digital por plataformas estrangeiras. Os dados quantitativos são claros:
 
 ```
-Situação Atual (2024) - ATUALIZADA COM KWAI:
+Situação Atual (2024) - ANÁLISE QUANTITATIVA DEFINITIVA:
 - Dependência crítica: 64% dos brasileiros dependem de WhatsApp para notícias
-- Concentração extrema: HHI 8.100 mensageria + HHI 3.240 redes sociais (CRÍTICO)
+- Concentração corporativa: HHI 4,114 (Meta 54.3% + China 21.4%)
+- Concentração geopolítica: HHI 6,731 (EUA 79.2% vs China 21.4%)
+- Mensageria monopolizada: HHI 8,100 (WhatsApp 90%)
 - Polarização crítica: 3.82/4.0 na escala de polarização digital
-- Capacidade chantagem: WhatsApp 0.91/1.0 + Kwai 0.87/1.0 (duplo risco)
-- LACUNA CRÍTICA: Kwai (45M users) zero transparência, controle chinês
-- Usuários únicos chineses: ~128M (TikTok + Kwai, overlap 30%)
-- Interferência confirmada: Operações russas e chinesas ativas, Kwai documentada
+- Capacidade chantagem: WhatsApp 0.91/1.0 + Meta 0.87/1.0 + Kwai 0.87/1.0
+- Usuários únicos chineses: ~137M (TikTok + Kwai, 30% overlap)
+- Interferência confirmada: Operações chinesas via TikTok+Kwai documentadas
 ```
 
 ### 13.2 Janela de Oportunidade

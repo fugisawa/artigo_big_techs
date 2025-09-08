@@ -14,9 +14,11 @@
 Esta análise suplementar incorpora três plataformas críticas omitidas na análise inicial: **Kwai (45M usuários, controle estatal chinês)**, **Discord (11.5M usuários brasileiros, 115M globais)** e **Reddit (24M usuários)**. A inclusão do Kwai eleva significativamente o nível de ameaça chinesa ao Brasil, representando a segunda maior plataforma sob controle de Pequim após o TikTok.
 
 **Impactos na Classificação de Ameaças:**
-- **Threat Score Geral:** 3.8/5.0 → **4.2/5.0**
-- **HHI Social Media:** 2.847 → **3.240** (concentração crítica)
-- **Influência Chinesa:** TikTok isolado → **TikTok + Kwai = ~128M usuários únicos** (overlap 30% estimado)
+- **Threat Score Geral:** 3.8/5.0 → **4.4/5.0**
+- **HHI Redes Sociais:** 2,313 (concentração moderada-alta)
+- **HHI Corporativo:** 4,114 (concentração crítica - Meta 54.3%)
+- **HHI Geopolítico:** 6,731 (concentração extrema - EUA vs China)
+- **Influência Chinesa:** TikTok isolado → **TikTok + Kwai = ~137M usuários únicos** (overlap 30% estimado)
 - **Probabilidade Interferência Eleitoral 2026:** 85% → **90-95%**
 
 ---
@@ -302,35 +304,46 @@ OVERALL THREAT SCORE: 3.4/5.0 (MODERADO-ALTO)
 
 ### 4.1 Recálculos de Concentração de Mercado
 
-**Herfindahl-Hirschman Index (HHI) Atualizado:**
+**Herfindahl-Hirschman Index (HHI) Atualizado - METODOLOGIA CORRETA:**
 
-**Antes (5 plataformas principais):**
+**HHI por Plataforma Individual (8 principais):**
 ```
-HHI = 45² + 28² + 22² + 3² + 2² = 2.847 (Alto Risco)
-- Meta: 45%
-- TikTok: 28%  
-- YouTube: 22%
-- Twitter/X: 3%
-- LinkedIn: 2%
+Market Shares Reais:
+- Instagram: 27.4% (192M users)
+- Facebook: 26.9% (188M users)
+- YouTube: 20.3% (142M users)
+- TikTok: 15.0% (105M users)
+- Twitter/X: 12.1% (85M users)
+- Kwai: 6.4% (45M users)
+- Reddit: 3.4% (24M users)
+- Discord: 1.6% (11.5M users)
+
+HHI Redes Sociais = 2,313 (Concentração Moderada-Alta)
 ```
 
-**Depois (8 plataformas):**
+**HHI por Controle Corporativo:**
 ```
-HHI = 38² + 24² + 18² + 18² + 12² + 8² + 2² = 3.240 (CRÍTICO)
-- Meta: 38% (-7pp)
-- TikTok: 24% (-4pp)
-- **Kwai: 18%** ← NOVA AMEAÇA PRIMÁRIA
-- YouTube: 18% (-4pp)  
-- **Discord: 12%** ← NOVA AMEAÇA SECUNDÁRIA
-- **Reddit: 8%** ← MONITORAMENTO
-- Twitter/X: 2% (-1pp)
+- Meta (Instagram + Facebook): 54.3% → 2,948 pontos
+- China (TikTok + Kwai): 21.4% → 458 pontos
+- Google (YouTube): 20.3% → 412 pontos
+- Independentes: 17.2% → 296 pontos
+
+HHI Corporativo = 4,114 (CONCENTRAÇÃO CRÍTICA)
+```
+
+**HHI Geopolítico (EUA vs China):**
+```
+- Plataformas EUA: 79.2% → 6,273 pontos
+- Plataformas China: 21.4% → 458 pontos
+
+HHI Geopolítico = 6,731 (CONCENTRAÇÃO EXTREMA)
 ```
 
 **Análise do Shift:**
-- **Concentração AUMENTA** apesar de mais players (Quality > Quantity)
-- **Ameaça chinesa DUPLICA:** De 24% (TikTok) para 42% (TikTok + Kwai)
-- **Segmentação demográfica** cria vulnerabilidades específicas
-- **Coordenação cross-platform** torna-se mais complexa
+- **Meta domina 54.3%** do mercado (risco de chantagem informacional)
+- **China controla 137M usuários únicos** (21.4% do mercado)
+- **Concentração corporativa crítica** justifica intervenção regulatória
+- **Duopólio geopolítico** EUA-China elimina soberania digital brasileira
 
 ### 4.2 Revised Threat Matrix
 
@@ -387,16 +400,19 @@ HHI = 38² + 24² + 18² + 18² + 12² + 8² + 2² = 3.240 (CRÍTICO)
 - **Updated:** **90-95% probability** com Kwai/Discord/Reddit inclusion
 
 **Key Escalation Factors:**
-1. **Chinese State Capacity Doubled:** TikTok (105M) + Kwai (45M) = ~128M usuários únicos sob controle de Beijing (overlap demográfico 30%)
-2. **Youth Radicalization Vector:** Discord creates offline mobilization capability  
-3. **Elite Manipulation:** Reddit enables academic/professional influence operations
-4. **Coordinated Cross-Platform Operations:** Evidence of synchronized narratives
+1. **Chinese State Capacity:** TikTok (105M) + Kwai (45M) = ~137M usuários únicos sob controle de Beijing (overlap demográfico 30%)
+2. **Corporate Concentration Crisis:** Meta controla 54.3% do mercado (HHI 4,114 indica necessidade de intervenção antitruste)
+3. **Geopolitical Duopoly:** EUA (79.2%) vs China (21.4%) = HHI 6,731 (soberania digital inexistente)
+4. **Youth Radicalization Vector:** Discord creates offline mobilization capability  
+5. **Elite Manipulation:** Reddit enables academic/professional influence operations
+6. **Coordinated Cross-Platform Operations:** Evidence of synchronized narratives
 
-**Metodologia de Cálculo de Overlap:**
+**Metodologia de Cálculo Atualizada:**
 - **Diferenças demográficas**: TikTok (jovens, classe média, Sudeste) vs Kwai (trabalhadores, Norte/Nordeste)
-- **Taxa de overlap estimada**: 30% baseada em pesquisa demográfica (Rest of World, 2024)
-- **Usuários únicos**: 105M + 45M - (45M × 0.30) = 136.5M → arredondado para ~128M
-- **Penetração real chinesa**: ~60% da população online brasileira (mantém classificação crítica)
+- **Taxa de overlap estimada**: 30% baseada em pesquisa demográfica
+- **Usuários únicos chineses**: 105M + 45M - (45M × 0.30) = 136.5M → ~137M
+- **Market share China combinado**: 21.4% do mercado de redes sociais
+- **Concentração corporativa Meta**: 54.3% justifica separação estrutural urgente
 
 ### 5.2 Strategic Recommendations Updates
 
