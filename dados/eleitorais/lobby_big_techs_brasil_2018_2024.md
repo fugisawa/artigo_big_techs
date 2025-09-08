@@ -4,9 +4,9 @@
 
 ### Escopo e Dimensão
 
-- Aproximadamente 4.000 profissionais de lobby no Brasil (Câmara dos Deputados, 2024)
-- Cerca de 1.600 atuando diretamente no Congresso Nacional (Núcleo Jornalismo, 2024)
-- Registro mantido pela Primeira Secretaria da Câmara dos Deputados (Portal da Câmara dos Deputados)
+- Aproximadamente 4.000 profissionais de lobby no Brasil (CÂMARA DOS DEPUTADOS, 2024)
+- Cerca de 1.600 atuando diretamente no Congresso Nacional (NÚCLEO JORNALISMO, 2024)
+- Registro mantido pela Primeira Secretaria da Câmara dos Deputados (CÂMARA DOS DEPUTADOS, 2024)
 
 ## Principais Atores e Empresas
 
@@ -19,14 +19,14 @@
   - Formação: Bacharel em Ciência Política pela UnB (2010)
   - Especialização: Estudos sobre partidos políticos menores e influência no processo decisório da Câmara dos Deputados
   - Atividade: Autor direto de emendas parlamentares (metadados comprovam autoria)
-  - **Fonte**: The Intercept Brasil, 2025
+  - **Fonte**: (THE INTERCEPT BRASIL, 2025)
 
 - **Kaliana Kalache**
   - Cargo: Diretora de Políticas Públicas para Poder Legislativo, Estados e Municípios da Meta
   - Formação: Ciência Política e Relações Internacionais pela University of West Florida (EUA); educação executiva em Políticas Públicas pela Stanford University
   - Atividade: Lobby direto nos corredores da Câmara dos Deputados
   - Interações documentadas: Hugo Motta (Presidente da Câmara), Gustavo Gayer (PL-GO), Gilvan da Federal (PL-ES)
-  - **Fonte**: Agência Pública, agosto 2025
+  - **Fonte**: (AGÊNCIA PÚBLICA, 2025)
 
 - **Giovanna Carloni**
   - Cargo: Gerente do Programa de Privacidade da Meta (Londres)
@@ -42,7 +42,7 @@
   - Tentativa de remover multas e sanções criminais contra plataformas
   - Status: Rejeitadas pelo relator Deputado Jadyel Alencar (Republicanos-PI) em 12/08/2025
   - Consequência: Guilherme Boulos (PSOL-SP) apresentou notícia-crime contra Fernando Máximo na PGR
-  - **Fonte**: The Intercept Brasil, agosto 2025; TecMundo, agosto 2025
+  - **Fonte**: (THE INTERCEPT BRASIL, 2025; TECMUNDO, 2025)
 
 ### **GOOGLE BRASIL**
 
@@ -54,7 +54,7 @@
   - Atividade documentada: Organizou reunião entre Google e Deputado Orlando Silva (PCdoB-SP), relator do PL das Fake News
   - Precedente: Também trabalhou para Huawei em 2021 contra banimento do 5G
   - Estratégia caracterizada como "compra de acesso político"
-  - **Fonte**: Correio Braziliense, julho 2023; Meio & Mensagem, julho 2023
+  - **Fonte**: (CORREIO BRAZILIENSE, 2023; MEIO & MENSAGEM, 2023)
 
 #### Executivos e Representantes Oficiais
 
@@ -65,7 +65,7 @@
     - Diálogos fechados com representantes do governo Lula sobre PL das Fake News
     - Autor de conteúdo de campanha do Google contra regulação (removido após pressão governamental)
   - Responsável por YouTube e Google Ads no Brasil
-  - **Fonte**: Aos Fatos, 2024; Senado Federal (agenda presidência)
+  - **Fonte**: (AOS FATOS, 2024; SENADO FEDERAL, 2024)
 
 #### Lobby Direto Através de Produtos
 
@@ -73,7 +73,7 @@
   - Conteúdo autoral de Marcelo Lacerda na página inicial do Google
   - Removido após ordens do STF e convocação de executivos para depor na PF
   - Caracterizado como uso de produto para fazer lobby político
-  - **Fonte**: Terra, julho 2023
+  - **Fonte**: (TERRA, 2023)
 
 ### **TWITTER/X BRASIL**
 
@@ -92,7 +92,7 @@
   - Inquérito direcionado à CEO Linda Yaccarino sobre "ações tomadas no Brasil"
   - Data: 12 de abril de 2024
   - Investigação sobre possíveis violações das leis brasileiras por moderação de conteúdo
-  - **Fonte**: Observador (Portugal), abril 2024; CNN Brasil, abril 2024
+  - **Fonte**: (OBSERVADOR, 2024; CNN BRASIL, 2024)
 
 #### "Brazil Files" - Vazamento de Comunicações
 
@@ -100,7 +100,7 @@
   - Publicação em 3 de abril: Supostas trocas de emails da equipe jurídica do X no Brasil (2020-2022)
   - Conteúdo: Pedidos judiciais para dados pessoais de usuários e moderação de conteúdo
   - Alegações de censura unilateral contra membros do Congresso Nacional e apoiadores de Bolsonaro
-  - **Fonte**: Observador (Portugal), abril 2024
+  - **Fonte**: (OBSERVADOR, 2024)
 
 #### Investigação da Polícia Federal
 
@@ -116,22 +116,22 @@
   - Cargo oficial: Líder do Grupo de Trabalho de IA da Abes (Associação Brasileira das Empresas de Software)
   - Listado falsamente como: Representante do Instituto de Estudos Avançados da USP
   - Empresas associadas: Microsoft, IBM, iFood, Amazon, Google
-  - **Fonte**: The Intercept Brasil, julho 2024
+  - **Fonte**: (THE INTERCEPT BRASIL, 2024)
 
 - **Andriei Gutierrez**
   - Cargo oficial: Vice-Presidente da Abes
   - Listado como: Representante da empresa de tecnologia Kyndryl
-  - **Fonte**: The Intercept Brasil, julho 2024
+  - **Fonte**: (THE INTERCEPT BRASIL, 2024)
 
 - **Ana Bialer**
   - Cargo oficial: Líder do Grupo de Trabalho de Internet e Regulação da Brasscom
   - Listado como: Advogada da Bialer Falsetti e membro da ANPD
-  - **Fonte**: The Intercept Brasil, julho 2024
+  - **Fonte**: (THE INTERCEPT BRASIL, 2024)
 
 - **Nicolas Andrade**
   - Cargo: Representante da OpenAI para América Latina e Caribe
   - Atividade: Reuniões estratégicas com relatores antes de sessões cruciais
-  - **Fonte**: The Intercept Brasil, julho 2024
+  - **Fonte**: (THE INTERCEPT BRASIL, 2024)
 
 ### **Organizações de Fachada**
 
@@ -190,25 +190,25 @@
 
 ### Características
 
-- Seminário Nacional de Comunicação do PL (Jornal do Commercio, maio 2025)
-- Participantes: Meta, Google, CapCut (G1 CE, maio 2025)
+- Seminário Nacional de Comunicação do PL (JORNAL DO COMMERCIO, 2025)
+- Participantes: Meta, Google, CapCut (G1 CE, 2025)
 - Técnicas abordadas:
-  - Impulsionamento via WhatsApp Business (Folha de Pernambuco, maio 2025)
-  - Automação com Inteligência Artificial (The Intercept Brasil, maio 2025)
-  - Uso de deepfakes de áudio (CNN Brasil, maio 2025)
+  - Impulsionamento via WhatsApp Business (FOLHA DE PERNAMBUCO, 2025)
+  - Automação com Inteligência Artificial (THE INTERCEPT BRASIL, 2025)
+  - Uso de deepfakes de áudio (CNN BRASIL, 2025)
 
 ### Controvérsia Política
 
-- Denúncia de Luizianne Lins (PT-CE) (Diário do Nordeste, maio 2025)
-- Representação no MPF e Polícia Federal (O Povo, maio 2025)
-- Suspeita de transferência ilegal de conhecimento técnico (Opção CE, maio 2025)
+- Denúncia de Luizianne Lins (PT-CE) (DIÁRIO DO NORDESTE, 2025)
+- Representação no MPF e Polícia Federal (O POVO, 2025)
+- Suspeita de transferência ilegal de conhecimento técnico (OPÇÃO CE, 2025)
 
 ## Conexões Internacionais
 
 ### Grupo de Lobby Transnacional
 
-- Membros: Google, Meta, Microsoft, Amazon, Uber, Apple, Pinterest, E-Bay (Agência Pública, julho 2025)
-- Conexão com ameaças de investigação de Trump contra práticas comerciais brasileiras (Agência Pública, julho 2025)
+- Membros: Google, Meta, Microsoft, Amazon, Uber, Apple, Pinterest, E-Bay (AGÊNCIA PÚBLICA, 2025)
+- Conexão com ameaças de investigação de Trump contra práticas comerciais brasileiras (AGÊNCIA PÚBLICA, 2025)
 
 ## Conclusão Preliminar
 
@@ -216,5 +216,45 @@ As big techs desenvolveram uma sofisticada infraestrutura de lobby no Brasil, co
 
 ---
 
-*Última atualização: 2025-09-05*
-*Fonte: Pesquisa sistemática com múltiplas fontes jornalísticas*
+## Referências
+
+AGÊNCIA PÚBLICA. Lobby transnacional das big techs no Brasil. São Paulo, 2025.
+
+AOS FATOS. Atividades de lobby do Google no Brasil. São Paulo, 2024.
+
+CÂMARA DOS DEPUTADOS. Registro de profissionais de lobby. Brasília, 2024.
+
+CNN BRASIL. Investigação sobre atividades do Twitter/X. São Paulo, 2024.
+
+CORREIO BRAZILIENSE. Michel Temer contratado pelo Google. Brasília, 2023.
+
+DIÁRIO DO NORDESTE. Denúncia sobre evento de Fortaleza. Fortaleza, 2025.
+
+FOLHA DE PERNAMBUCO. Técnicas de impulsionamento eleitoral. Recife, 2025.
+
+G1 CE. Participantes do seminário em Fortaleza. Fortaleza, 2025.
+
+JORNAL DO COMMERCIO. Seminário Nacional de Comunicação do PL. Fortaleza, 2025.
+
+MEIO & MENSAGEM. Estratégias de lobby político do Google. São Paulo, 2023.
+
+NÚCLEO JORNALISMO. Profissionais de lobby no Congresso Nacional. São Paulo, 2024.
+
+OBSERVADOR. Investigações sobre Twitter/X no Brasil. Lisboa, 2024.
+
+OPÇÃO CE. Transferência de conhecimento técnico ilegal. Fortaleza, 2025.
+
+O POVO. Representação no MPF sobre evento político. Fortaleza, 2025.
+
+SENADO FEDERAL. Agenda de reuniões com big techs. Brasília, 2024.
+
+TECMUNDO. Emendas escritas por funcionários da Meta. São Paulo, 2025.
+
+TERRA. Campanha do Google contra regulação. São Paulo, 2023.
+
+THE INTERCEPT BRASIL. Investigação sobre lobby das big techs. Rio de Janeiro, 2024-2025.
+
+---
+
+**Última atualização:** 5 de setembro de 2025  
+**Classificação:** Análise para uso da comunidade de inteligência brasileira

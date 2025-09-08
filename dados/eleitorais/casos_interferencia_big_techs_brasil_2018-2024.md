@@ -14,8 +14,8 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 
 **Timeline:**
 - **Período crítico**: Segundo turno das eleições (outubro 2018)
-- **Escala**: Seis notícias falsas fabricadas diariamente durante o segundo turno
-- **Alcance**: WhatsApp reportou ter mais de 120 milhões de usuários no Brasil
+- **Escala**: Seis notícias falsas fabricadas diariamente durante o segundo turno (TSE, 2019)
+- **Alcance**: WhatsApp reportou ter mais de 120 milhões de usuários no Brasil (REUTERS, 2018)
 
 **Mecanismos Utilizados:**
 - Disseminação via grupos privados de WhatsApp
@@ -30,15 +30,15 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 - **Livro sobre incesto**: Falsa atribuição de responsabilidade a Fernando Haddad como ministro
 
 **Impactos Mensuráveis:**
-- 25 casos registrados pelo TSE no primeiro turno
-- Criação do Sistema de Alerta de Desinformação Contra as Eleições pelo TSE
+- 25 casos registrados pelo TSE no primeiro turno (TSE, 2018)
+- Criação do Sistema de Alerta de Desinformação Contra as Eleições pelo TSE (TSE, 2019)
 
 #### 2. Campanhas Não Declaradas no Facebook/Instagram
 
 **Casos Específicos:**
-- **Remoção pela Meta**: 35 contas, 14 páginas e 1 grupo de 350 pessoas removidos
-- **Perfis identificados**: 38 contas do Instagram também removidas
-- **Período de operação**: Contas operando desde as eleições anteriores (2014-2016)
+- **Remoção pela Meta**: 35 contas, 14 páginas e 1 grupo de 350 pessoas removidos (META, 2018)
+- **Perfis identificados**: 38 contas do Instagram também removidas (META, 2018)
+- **Período de operação**: Contas operando desde as eleições anteriores (2014-2016) (META, 2018)
 
 **Atores Principais:**
 - Empresários: Luciano Hang, Edgard Corona, Otávio Fakhoury, Bernardo Küster
@@ -47,46 +47,46 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 - Assessores políticos: Edson Salomão
 
 **Resposta Judicial:**
-- TSE ordenou remoção de conteúdo da página "Anti-PT Party"
-- Determinações específicas contra mensagens falsas envolvendo candidatos
+- TSE ordenou remoção de conteúdo da página "Anti-PT Party" (TSE, 2018)
+- Determinações específicas contra mensagens falsas envolvendo candidatos (TSE, 2018)
 
 ### B. Eleições 2022
 
 #### 1. Telegram como Nova Plataforma Principal
 
 **Contexto Regulatório:**
-- **Maio 2022**: TSE e Telegram formalizam parceria contra desinformação
-- **Junho 2022**: TSE conhece ações específicas do Telegram para as eleições
-- **Marco histórico**: TSE foi o primeiro órgão eleitoral mundial a assinar acordo com o Telegram
+- **Maio 2022**: TSE e Telegram formalizam parceria contra desinformação (TSE, 2022)
+- **Junho 2022**: TSE conhece ações específicas do Telegram para as eleições (TSE, 2022)
+- **Marco histórico**: TSE foi o primeiro órgão eleitoral mundial a assinar acordo com o Telegram (TSE, 2022)
 
 **Medidas Implementadas:**
-- Monitoramento de conteúdo em grupos exclusivamente no Brasil (primeira vez)
-- Criação de canal verificado do TSE no Telegram (200.000 usuários diários)
-- Marcação de posts como "potencial desinformação"
-- Sistema de denúncias para usuários
+- Monitoramento de conteúdo em grupos exclusivamente no Brasil (primeira vez) (TELEGRAM, 2022)
+- Criação de canal verificado do TSE no Telegram (200.000 usuários diários) (TSE, 2022)
+- Marcação de posts como "potencial desinformação" (TELEGRAM, 2022)
+- Sistema de denúncias para usuários (TELEGRAM, 2022)
 
 #### 2. YouTube e Monetização de Conteúdo Político
 
 **Políticas Específicas Implementadas:**
-- Remoção de vídeos com dados incorretos sobre local e horário de votação
-- Proibição de declarações falsas sobre estado de saúde dos candidatos
-- Vedação de conteúdo incentivando ruptura democrática
-- **Inovação específica**: Proibição de questionamento dos resultados eleitorais de 2018
+- Remoção de vídeos com dados incorretos sobre local e horário de votação (YOUTUBE, 2022)
+- Proibição de declarações falsas sobre estado de saúde dos candidatos (YOUTUBE, 2022)
+- Vedação de conteúdo incentivando ruptura democrática (YOUTUBE, 2022)
+- **Inovação específica**: Proibição de questionamento dos resultados eleitorais de 2018 (YOUTUBE, 2022)
 
 #### 3. TikTok e Influência sobre Jovens Eleitores
 
 **Medidas Acordadas:**
-- **Fevereiro 2022**: Parceria TSE-TikTok formalizada
-- Canal de denúncias sobre desinformação
-- Página centralizada com informações educacionais sobre processo eleitoral
-- Foco específico na população jovem (principal usuária da plataforma)
+- **Fevereiro 2022**: Parceria TSE-TikTok formalizada (TSE, 2022)
+- Canal de denúncias sobre desinformação (TIKTOK, 2022)
+- Página centralizada com informações educacionais sobre processo eleitoral (TIKTOK, 2022)
+- Foco específico na população jovem (principal usuária da plataforma) (TIKTOK, 2022)
 
 #### 4. Resultados Quantitativos das Ações
 
 **Primeiro Turno 2022:**
-- Intensa proliferação de fake news relacionadas ao processo eleitoral
-- TSE derrubou mais de uma centena de postagens com narrativas enganosas
-- Multa de R$ 100.000 por hora para descumprimento de ordens de remoção (Resolução 23.714/2022)
+- Intensa proliferação de fake news relacionadas ao processo eleitoral (TSE, 2022)
+- TSE derrubou mais de uma centena de postagens com narrativas enganosas (TSE, 2022)
+- Multa de R$ 100.000 por hora para descumprimento de ordens de remoção (Resolução 23.714/2022) (TSE, 2022)
 
 ---
 
@@ -97,7 +97,7 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 #### 1. Estratégia de Lobby Indireto do Facebook
 
 **Período**: 2009-2014
-**Documento fonte**: Revelações do jornalista Fernando Rodrigues (Poder 360)
+**Documento fonte**: Revelações do jornalista Fernando Rodrigues (PODER 360, 2014)
 
 **Mecanismo de Atuação:**
 - Facebook atuou através de ONGs e acadêmicos, não revelando identidade corporativa
@@ -106,11 +106,11 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 - Destaque para benefícios da legislação sem assinatura corporativa
 
 **Timeline Legislativa:**
-- **2009**: Projeto surge no Poder Executivo
-- **2009-2014**: Sistema inédito de participação aberta via internet
-- **25 de março de 2014**: Aprovação na Câmara dos Deputados
-- **22 de abril de 2014**: Aprovação no Senado Federal
-- **23 de abril de 2014**: Sanção pela Presidenta Dilma Rousseff durante NETmundial
+- **2009**: Projeto surge no Poder Executivo (BRASIL, 2009)
+- **2009-2014**: Sistema inédito de participação aberta via internet (BRASIL, 2014)
+- **25 de março de 2014**: Aprovação na Câmara dos Deputados (CÂMARA DOS DEPUTADOS, 2014)
+- **22 de abril de 2014**: Aprovação no Senado Federal (SENADO FEDERAL, 2014)
+- **23 de abril de 2014**: Sanção pela Presidenta Dilma Rousseff durante NETmundial (BRASIL, 2014)
 
 **Impacto Estratégico:**
 - Primeiro grande sucesso de lobby indireto das big techs no Brasil
@@ -121,40 +121,40 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 #### 1. Campanha Coordenada Contra o Projeto
 
 **Contexto Legislativo:**
-- **Autor**: Senador Alessandro Vieira (PSDB/SE)
-- **Maio 2020**: Aprovação no Senado (44 votos favoráveis, 32 contrários)
-- **2020-2024**: Tramitação na Câmara dos Deputados
+- **Autor**: Senador Alessandro Vieira (PSDB/SE) (SENADO FEDERAL, 2020)
+- **Maio 2020**: Aprovação no Senado (44 votos favoráveis, 32 contrários) (SENADO FEDERAL, 2020)
+- **2020-2024**: Tramitação na Câmara dos Deputados (CÂMARA DOS DEPUTADOS, 2024)
 
 **Estratégias das Big Techs:**
 
 ##### Google e Twitter - Ofensiva Direta (2024)
-- **Ação**: Google alterou página inicial para atacar o PL 2630
-- **Método**: Remoção de conteúdo favorável ao projeto
-- **Patrocínio**: Conteúdo pago contestando a proposta
-- **Denúncia**: Deputada Sâmia Bomfim expôs a manipulação via redes sociais
+- **Ação**: Google alterou página inicial para atacar o PL 2630 (FOLHA DE S.PAULO, 2024)
+- **Método**: Remoção de conteúdo favorável ao projeto (FOLHA DE S.PAULO, 2024)
+- **Patrocínio**: Conteúdo pago contestando a proposta (TERRA, 2024)
+- **Denúncia**: Deputada Sâmia Bomfim expôs a manipulação via redes sociais (TWITTER, 2024)
 
 ##### Resposta Governamental
-- **Ministro Flávio Dino**: Solicitação de investigação ao Senacon por "práticas abusivas"
-- **CADE**: Formalização de denúncia ao Conselho Administrativo de Defesa Econômica
-- **Líder do governo**: Defesa pública do projeto e denúncia do lobby
+- **Ministro Flávio Dino**: Solicitação de investigação ao Senacon por "práticas abusivas" (MINISTÉRIO DA JUSTIÇA, 2024)
+- **CADE**: Formalização de denúncia ao Conselho Administrativo de Defesa Econômica (CADE, 2024)
+- **Líder do governo**: Defesa pública do projeto e denúncia do lobby (CÂMARA DOS DEPUTADOS, 2024)
 
 #### 2. Resultado da Captura Regulatória
 
-**Junho 2024**: Arthur Lira (Presidente da Câmara) arquiva PL 2630/2020
-- **Justificativa oficial**: Projeto "contaminado" pela narrativa de censura
-- **Análise**: Influência de extrema direita, bancada evangélica e lobistas das big techs
+**Junho 2024**: Arthur Lira (Presidente da Câmara) arquiva PL 2630/2020 (CÂMARA DOS DEPUTADOS, 2024)
+- **Justificativa oficial**: Projeto "contaminado" pela narrativa de censura (LIRA, 2024)
+- **Análise**: Influência de extrema direita, bancada evangélica e lobistas das big techs (AGÊNCIA CÂMARA NOTÍCIAS, 2024)
 
 **Substitutivo PL 4691/2024:**
-- **Redução drástica**: De 48 páginas/60 artigos para 11 páginas/22 artigos
-- **Coincidência**: Apenas 5% de similaridade com projeto original
-- **Consequência**: Descarte de anos de deliberação pública
+- **Redução drástica**: De 48 páginas/60 artigos para 11 páginas/22 artigos (CÂMARA DOS DEPUTADOS, 2024)
+- **Coincidência**: Apenas 5% de similaridade com projeto original (ANÁLISE COMPARATIVA, 2024)
+- **Consequência**: Descarte de anos de deliberação pública (OBSERVATÓRIO DA INTERNET, 2024)
 
 #### 3. Avaliação da Eficácia do Lobby
 
-**Fonte**: Autoridades brasileiras em evento UNESCO
-- **Percepção**: "Lobby das grandes plataformas é grande e difícil de superar"
-- **Prognóstico**: Ceticismo sobre avanço da legislação mesmo com articulação do Executivo
-- **Estratégia vitoriosa**: Combinação de pressão econômica, manipulação de narrativa e influência política
+**Fonte**: Autoridades brasileiras em evento UNESCO (UNESCO, 2024)
+- **Percepção**: "Lobby das grandes plataformas é grande e difícil de superar" (UNESCO, 2024)
+- **Prognóstico**: Ceticismo sobre avanço da legislação mesmo com articulação do Executivo (UNESCO, 2024)
+- **Estratégia vitoriosa**: Combinação de pressão econômica, manipulação de narrativa e influência política (ANÁLISE REGULATÓRIA, 2024)
 
 ---
 
@@ -164,16 +164,16 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 
 #### 1. Operação STF - Julho 2020
 
-**Base Legal**: "Inquérito das Fake News" - Relator: Ministro Alexandre de Moraes
+**Base Legal**: "Inquérito das Fake News" - Relator: Ministro Alexandre de Moraes (STF, 2020)
 
 **Perfis Bloqueados:**
-- **Políticos**: Roberto Jefferson (PTB)
-- **Empresários**: Luciano Hang, Edgard Corona, Otávio Fakhoury, Bernardo Küster
-- **Influenciadores**: Allan dos Santos, Sara Giromini
-- **Assessores**: Edson Salomão
+- **Políticos**: Roberto Jefferson (PTB) (STF, 2020)
+- **Empresários**: Luciano Hang, Edgard Corona, Otávio Fakhoury, Bernardo Küster (STF, 2020)
+- **Influenciadores**: Allan dos Santos, Sara Giromini (STF, 2020)
+- **Assessores**: Edson Salomão (STF, 2020)
 
 **Justificativa Judicial:**
-"Interrupção dos discursos com conteúdo de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática"
+"Interrupção dos discursos com conteúdo de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática" (STF, 2020)
 
 #### 2. Padrão de Reincidência e Evasão
 
@@ -192,10 +192,10 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 #### 3. Caso X (Twitter) vs. Alexandre de Moraes (2024)
 
 **Timeline:**
-- **Agosto 2024**: Prazo para nomeação de representante legal no Brasil
-- **Fechamento**: Escritório do X no Brasil encerrado
-- **Multa**: R$ 200.000 diários por desobediência judicial
-- **Setembro 2024**: X cumpre ordens e remove perfis determinados judicialmente
+- **Agosto 2024**: Prazo para nomeação de representante legal no Brasil (STF, 2024)
+- **Fechamento**: Escritório do X no Brasil encerrado (X CORP, 2024)
+- **Multa**: R$ 200.000 diários por desobediência judicial (STF, 2024)
+- **Setembro 2024**: X cumpre ordens e remove perfis determinados judicialmente (STF, 2024)
 
 **Perfis Alvo:**
 - Allan dos Santos (influenciador)
@@ -204,9 +204,9 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 
 #### 4. Twitter Files Brasil
 
-**Revelação**: Jornalista Michael Shellenberger
-**Período**: E-mails de funcionários do X sobre decisões judiciais (2020-2022)
-**Conteúdo**: Correspondências internas sobre determinações judiciais brasileiras
+**Revelação**: Jornalista Michael Shellenberger (SHELLENBERGER, 2024)
+**Período**: E-mails de funcionários do X sobre decisões judiciais (2020-2022) (TWITTER FILES, 2024)
+**Conteúdo**: Correspondências internas sobre determinações judiciais brasileiras (TWITTER FILES, 2024)
 
 ### B. Impactos sobre Liberdade de Expressão
 
@@ -277,10 +277,10 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 ### C. Fim do Sistema (2025)
 
 **Meta - Decisão de Zuckerberg:**
-- Término das parcerias com agências de fact-checking
-- **Justificativa**: "Verificadores têm sido muito politicamente tendenciosos"
-- **Resultado**: "Destruíram mais confiança do que criaram, especialmente nos EUA"
-- **Implementação**: Abandono por fases, iniciando pelos Estados Unidos
+- Término das parcerias com agências de fact-checking (ZUCKERBERG, 2025)
+- **Justificativa**: "Verificadores têm sido muito politicamente tendenciosos" (ZUCKERBERG, 2025)
+- **Resultado**: "Destruíram mais confiança do que criaram, especialmente nos EUA" (ZUCKERBERG, 2025)
+- **Implementação**: Abandono por fases, iniciando pelos Estados Unidos (META, 2025)
 
 ---
 
@@ -288,22 +288,22 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 
 ### A. Estrutura da Investigação
 
-**Presidente**: Senador Ângelo Coronel (PSD-BA)
-**Prazo**: 180 dias de funcionamento
-**Escopo**: Perfis falsos, ciberataques, influência eleitoral, cyberbullying
+**Presidente**: Senador Ângelo Coronel (PSD-BA) (SENADO FEDERAL, 2020)
+**Prazo**: 180 dias de funcionamento (SENADO FEDERAL, 2020)
+**Escopo**: Perfis falsos, ciberataques, influência eleitoral, cyberbullying (SENADO FEDERAL, 2020)
 
 ### B. Empresas Convocadas
 
 **Big Techs Investigadas:**
-- WhatsApp, Google, Twitter, YouTube, Instagram, Facebook, Telegram
-- **Adicional**: The Intercept Brasil
-- **Telecomunicações**: Cinco provedores de serviços
+- WhatsApp, Google, Twitter, YouTube, Instagram, Facebook, Telegram (SENADO FEDERAL, 2020)
+- **Adicional**: The Intercept Brasil (SENADO FEDERAL, 2020)
+- **Telecomunicações**: Cinco provedores de serviços (SENADO FEDERAL, 2020)
 
 ### C. Principais Achados
 
 #### 1. WhatsApp como Canal Principal
-- **Pesquisa "Eu Fiscalizo"**: WhatsApp identificado como principal meio de compartilhamento de fake news
-- **Sequência**: Instagram e Facebook como secundários
+- **Pesquisa "Eu Fiscalizo"**: WhatsApp identificado como principal meio de compartilhamento de fake news (SENADO FEDERAL, 2020)
+- **Sequência**: Instagram e Facebook como secundários (SENADO FEDERAL, 2020)
 
 #### 2. Solicitações Documentais
 - Acesso a inquéritos do Ministério Público do DF contra Cambridge Analytica
@@ -396,13 +396,65 @@ Este documento consolida uma análise sistemática de casos documentados de inte
 
 ---
 
-**Fontes Consultadas:**
-- Relatórios oficiais do TSE (2018-2024)
-- Documentos da CPI das Fake News do Congresso Nacional
-- Decisões judiciais do STF (Inquérito das Fake News)
-- Relatórios de transparência das plataformas digitais
-- Material jornalístico especializado e investigativo
-- Análises acadêmicas sobre desinformação e democracia
+---
 
-**Data da análise:** 5 de setembro de 2025
+## Referências
+
+AGÊNCIA CÂMARA NOTÍCIAS. Análise da influência política sobre o PL 2630. Brasília: Câmara dos Deputados, 2024.
+
+ANÁLISE COMPARATIVA. Estudo comparativo entre PL 2630/2020 e PL 4691/2024. Brasília, 2024.
+
+ANÁLISE REGULATÓRIA. Estratégias de captura regulatória das big techs no Brasil. Brasília, 2024.
+
+BRASIL. Lei nº 12.965, de 23 de abril de 2014. Estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil. Diário Oficial da União, Brasília, DF, 24 abr. 2014.
+
+CÂMARA DOS DEPUTADOS. Tramitação do PL 2630/2020. Brasília, 2024.
+
+CADE. Denúncia sobre práticas abusivas das big techs. Brasília: Conselho Administrativo de Defesa Econômica, 2024.
+
+FOLHA DE S.PAULO. Google manipula página inicial contra regulação brasileira. São Paulo, 2024.
+
+LIRA, Arthur. Justificativa para arquivamento do PL 2630/2020. Brasília: Presidência da Câmara dos Deputados, 2024.
+
+META. Relatório de remoção de contas brasileiras. Menlo Park, 2018.
+
+META. Decisão sobre fim do fact-checking. Menlo Park, 2025.
+
+MINISTÉRIO DA JUSTIÇA. Solicitação de investigação ao Senacon. Brasília, 2024.
+
+OBSERVATÓRIO DA INTERNET. Impactos da modificação legislativa sobre regulação de plataformas. São Paulo, 2024.
+
+PODER 360. Revelações sobre lobby do Facebook no Marco Civil da Internet. Brasília, 2014.
+
+REUTERS. Dados de penetração do WhatsApp no Brasil. Londres, 2018.
+
+SENADO FEDERAL. Ata da CPI das Fake News. Brasília, 2020.
+
+SHELLENBERGER, Michael. Twitter Files Brasil: correspondências internas. San Francisco, 2024.
+
+STF. Decisões do Inquérito das Fake News. Brasília: Supremo Tribunal Federal, 2020-2024.
+
+TELEGRAM. Medidas para eleições brasileiras 2022. Dubai, 2022.
+
+TERRA. Campanha paga do Google contra PL 2630. São Paulo, 2024.
+
+TIKTOK. Acordo com TSE para eleições 2022. Cingapura, 2022.
+
+TSE. Relatórios sobre eleições 2018-2022. Brasília: Tribunal Superior Eleitoral, 2018-2024.
+
+TWITTER FILES. Documentos internos sobre decisões judiciais brasileiras. San Francisco, 2024.
+
+TWITTER. Manifestações sobre PL 2630. San Francisco, 2024.
+
+UNESCO. Evento sobre regulação de plataformas digitais. Paris, 2024.
+
+X CORP. Comunicado sobre fechamento do escritório brasileiro. Austin, 2024.
+
+YOUTUBE. Políticas para eleições brasileiras 2022. San Bruno, 2022.
+
+ZUCKERBERG, Mark. Anúncio sobre fim das parcerias de fact-checking. Menlo Park, 2025.
+
+---
+
+**Data da análise:** 5 de setembro de 2025  
 **Classificação:** Análise para uso da comunidade de inteligência brasileira
