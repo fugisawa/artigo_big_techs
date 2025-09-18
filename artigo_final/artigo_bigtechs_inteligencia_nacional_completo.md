@@ -1096,10 +1096,10 @@ Inspirado no DSA europeu, mas adaptado para realidades brasileiras:
 **Obrigações Específicas**:
 - Avaliação anual de riscos sistêmicos
 - Relatórios trimestrais de transparência
-- Access de pesquisadores credenciados a dados
+- Acesso de pesquisadores credenciados a dados
 - Mecanismos robustos de revisão e apelação
 
-**Enforcement Brasileiro**:
+**Aplicação Brasileira**:
 - CNSD como autoridade coordenadora
 - PF para investigações criminais
 - TSE para questões eleitorais
@@ -1110,7 +1110,7 @@ Inspirado no DSA europeu, mas adaptado para realidades brasileiras:
 **Princípios**:
 - Explicabilidade das decisões algorítmicas
 - Auditabilidade por terceiros independentes
-- Não-discriminação e fairness
+- Não-discriminação e equidade
 - Supervisão humana significativa
 
 **Obrigações**:
@@ -1121,7 +1121,7 @@ Art. 4º - Medidas anti-discriminação e anti-bias
 
 **Auditoria Algoritmica**:
 - Conduzida por instituições acadêmicas credenciadas
-- Foco em fairness, transparency e responsabilização
+- Foco em equidade, transparência e responsabilização
 - Poder do CNSD para determinar auditorias
 - Resultados públicos (com ressalvas de segurança)
 
@@ -1135,7 +1135,7 @@ Art. 4º - Medidas anti-discriminação e anti-bias
 - Determinação de auditorias algorítmicas
 - Coordenação de resposta a crises digitais
 
-**Estrutura de Governance**:
+**Estrutura de Governança**:
 - Presidente nomeado pelo Presidente da República
 - 7 membros representando diferentes órgãos
 - 2 representantes da sociedade civil
@@ -1145,7 +1145,7 @@ Art. 4º - Medidas anti-discriminação e anti-bias
 - Dotação orçamentária própria: R$ 2 bilhões anuais
 - Taxa de regulação sobre plataformas (0.5% receita brasileira)
 - Recursos de cooperação internacional
-- Funding para pesquisa acadêmica
+- Financiamento para pesquisa acadêmica
 
 #### 7.2.2 Centro Nacional de Inteligência Digital (CNID)
 
@@ -1158,28 +1158,28 @@ Art. 4º - Medidas anti-discriminação e anti-bias
 **Capacidades Operacionais**:
 - Sistema SENTINEL de monitoramento 24/7
 - Laboratório de análise algoritmica
-- Capacidades de digital forensics
-- Cooperation desk para platforms
+- Capacidades de perícia digital
+- Mesa de cooperação para plataformas
 
 ### 7.3 Instrumentos de Regulação
 
 #### 7.3.1 Sistema de Compliance Escalonado
 
-**Tier 1 - Plataformas Muito Grandes (>50M usuários)**:
+**Nível 1 - Plataformas Muito Grandes (>50M usuários)**:
 - Avaliação anual de riscos sistêmicos obrigatória
 - Auditoria independente anual obrigatória
 - Oficial de conformidade residente no Brasil
 - Relatórios mensais durante períodos eleitorais
 
-**Tier 2 - Plataformas Grandes (15-50M usuários)**:
+**Nível 2 - Plataformas Grandes (15-50M usuários)**:
 - Avaliação bianual de riscos
 - Auditoria a pedido da autoridade
 - Representação legal qualificada
 - Relatórios trimestrais regulares
 
-**Tier 3 - Plataformas Médias (5-15M usuários)**:
+**Nível 3 - Plataformas Médias (5-15M usuários)**:
 - Avaliação de riscos quando solicitado
-- Compliance basic requirements
+- Requisitos básicos de conformidade
 - Representação legal básica
 - Relatórios semestrais
 
@@ -1198,7 +1198,7 @@ Art. 4º - Medidas anti-discriminação e anti-bias
 **Infrações Muito Graves**:
 - Multa de 3-6% da receita global
 - Suspensão de novos usuários (30 dias)
-- Proibição de new features (180 dias)
+- Proibição de novos recursos (180 dias)
 
 **Infrações Críticas**:
 - Multa até 10% da receita global
@@ -1210,135 +1210,135 @@ Art. 4º - Medidas anti-discriminação e anti-bias
 #### 7.4.1 Conselho Multi-Stakeholder
 
 **Composição Equilibrada**:
-- Government (30%): Executivo, Legislativo, Judiciário
-- Private Sector (25%): Plataformas, ISPs, outros setores
-- Civil Society (25%): Direitos digitais, academia, mídia
-- Technical/International (20%): Especialistas, organizações internacionais
+- Governo (30%): Executivo, Legislativo, Judiciário
+- Setor Privado (25%): Plataformas, ISPs, outros setores
+- Sociedade Civil (25%): Direitos digitais, academia, mídia
+- Técnico/Internacional (20%): Especialistas, organizações internacionais
 
 **Funções Consultivas**:
-- Review de normas regulamentares antes edição
-- Assessment anual da eficácia das policies
+- Revisão de normas regulamentares antes da edição
+- Avaliação anual da eficácia das políticas
 - Mediação de conflitos entre partes interessadas
-- Input em strategic planning
+- Contribuição no planejamento estratégico
 
 #### 7.4.2 Transparência e Accountability
 
 **Obrigações de Transparência**:
-- Relatórios trimestrais público sobre aplicação
-- Database aberto de decisões administrativas
+- Relatórios trimestrais públicos sobre aplicação
+- Base de dados aberta de decisões administrativas
 - Audiências públicas semestrais
 - Portal de transparência com dados em tempo real
 
-**Mecanismos de Accountability**:
+**Mecanismos de Responsabilização**:
 - Ouvidoria independente
-- Congressional supervisão biannual
-- Judicial review de todas decisões administrativas
-- Civil society monitoring e feedback
+- Supervisão congressual bianual
+- Revisão judicial de todas as decisões administrativas
+- Monitoramento e feedback da sociedade civil
 
 ### 7.5 Implementação e Cronograma
 
 #### 7.5.1 Estratégia Legislativa
 
-**Phase 1 - Emergency Legislation (0-6 months)**:
-Month 1-2: Political coalition building
-- Leadership engagement across parties
-- Civil society mobilization
-- Public awareness campaigns
-- International support building
+**Fase 1 - Legislação de Emergência (0-6 meses)**:
+Meses 1-2: Construção de coalição política
+- Engajamento de lideranças entre partidos
+- Mobilização da sociedade civil
+- Campanhas de conscientização pública
+- Construção de apoio internacional
 
-Month 3-4: Legislative process
-- Constitutional urgency regime
-- Concentrated public hearings
-- Industry lobby resistência management
-- International precedent presentation
+Meses 3-4: Processo legislativo
+- Regime de urgência constitucional
+- Audiências públicas concentradas
+- Gerenciamento da resistência do lobby da indústria
+- Apresentação de precedentes internacionais
 
-Month 5-6: Approval and implementation
-- Congressional final votes
-- Presidential sanction
-- Regulatory estrutura initial setup
-- Platform notification process
+Meses 5-6: Aprovação e implementação
+- Votações finais no Congresso
+- Sanção presidencial
+- Configuração inicial da estrutura regulatória
+- Processo de notificação das plataformas
 
-#### 7.5.2 Implementation Phases
+#### 7.5.2 Fases de Implementação
 
-**Phase 1 - Basic Structure (6-12 months)**:
-- CNSD operationalization
-- CNID basic capacidades establishment
-- First transparency report cycle
-- Initial platform conformidade avaliação
+**Fase 1 - Estrutura Básica (6-12 meses)**:
+- Operacionalização do CNSD
+- Estabelecimento das capacidades básicas do CNID
+- Primeiro ciclo de relatórios de transparência
+- Avaliação inicial de conformidade das plataformas
 
-**Phase 2 - Full Operation (12-18 months)**:
-- Complete monitoring system operational
-- First algorithmic audits conducted
-- International cooperation agreements active
-- 2026 election preparation complete
+**Fase 2 - Operação Completa (12-18 meses)**:
+- Sistema completo de monitoramento operacional
+- Primeiras auditorias algorítmicas realizadas
+- Acordos de cooperação internacional ativos
+- Preparação para eleições de 2026 completa
 
-**Phase 3 - Advanced Capabilities (18-24 months)**:
-- Proactive threat prevention operational
-- International leadership established
-- Academic research partnerships mature
-- Long-term sustainability assured
+**Fase 3 - Capacidades Avançadas (18-24 meses)**:
+- Prevenção proativa de ameaças operacional
+- Liderança internacional estabelecida
+- Parcerias de pesquisa acadêmica maduras
+- Sustentabilidade de longo prazo assegurada
 
 ### 7.6 Resistência Esperada e Mitigação
 
-#### 7.6.1 Platform Industry Resistance
+#### 7.6.1 Resistência da Indústria de Plataformas
 
-**Expected Strategies (probability avaliaçãos)**:
-- Legal challenges (85% probability)
-- Intensive lobby (95% probability)  
-- International pressure via US government (70%)
-- Threat of service withdrawal (45%)
-- Public campaigns claiming "censorship" (80%)
+**Estratégias Esperadas (avaliações de probabilidade)**:
+- Desafios legais (85% de probabilidade)
+- Lobby intensivo (95% de probabilidade)
+- Pressão internacional via governo americano (70%)
+- Ameaça de retirada de serviços (45%)
+- Campanhas públicas alegando "censura" (80%)
 
-**Mitigation Strategies**:
-- Strong constitutional law foundation
-- International coalition with EU/democratic allies
-- Public support through transparency e education
-- Economic leverage (Brazil market importance)
-- Graduated implementation to demonstrate proportionality
+**Estratégias de Mitigação**:
+- Base sólida de direito constitucional
+- Coalição internacional com UE/aliados democráticos
+- Apoio público através de transparência e educação
+- Alavancagem econômica (importância do mercado brasileiro)
+- Implementação gradual para demonstrar proporcionalidade
 
-#### 7.6.2 Political Resistance
+#### 7.6.2 Resistência Política
 
-**Potential Opposition Sources**:
-- Partisan opposition characterizing as "government overreach"
-- Economic concerns about innovation impact  
-- Civil liberties organizations concerned about censorship
-- International business community pressure
+**Fontes Potenciais de Oposição**:
+- Oposição partidária caracterizando como "excesso governamental"
+- Preocupações econômicas sobre impacto na inovação
+- Organizações de liberdades civis preocupadas com censura
+- Pressão da comunidade empresarial internacional
 
-**Counter-Strategies**:
-- Bipartisan expert commission for credibility
-- Economic impact studies showing net benefits
-- International benchmarking demonstrating normalcy
-- Civil liberties safeguards built into estrutura
-- Public education about democratic protection necessity
+**Contraestratégias**:
+- Comissão especializada bipartidária para credibilidade
+- Estudos de impacto econômico mostrando benefícios líquidos
+- Benchmarking internacional demonstrando normalidade
+- Salvaguardas de liberdades civis integradas à estrutura
+- Educação pública sobre necessidade de proteção democrática
 
 ### 7.7 Economic Impact Assessment
 
-#### 7.7.1 Compliance Costs for Industry
+#### 7.7.1 Custos de Conformidade para a Indústria
 
-**Large Platforms (>45M users)**:
-- Transparency reporting: R$ 5-10 milhões annually
-- Algorithmic audits: R$ 15-25 milhões per audit
-- Technical conformidade: R$ 20-40 milhões annually
-- Legal representation: R$ 8-15 milhões annually
+**Grandes Plataformas (>45M usuários)**:
+- Relatórios de transparência: R$ 5-10 milhões anuais
+- Auditorias algorítmicas: R$ 15-25 milhões por auditoria
+- Conformidade técnica: R$ 20-40 milhões anuais
+- Representação legal: R$ 8-15 milhões anuais
 
-**Total Industry Impact**: R$ 200-400 milhões annually
-(0.02-0.04% of digital sector revenue in Brazil)
+**Impacto Total da Indústria**: R$ 200-400 milhões anuais
+(0,02-0,04% da receita do setor digital no Brasil)
 
-#### 7.7.2 Economic Benefits
+#### 7.7.2 Benefícios Econômicos
 
-**Direct Economic Benefits**:
-- Job creation: 5,000+ specialized positions
-- Technology sector development: R$ 2 bilhões investment
-- Academic/research boost: R$ 500 milhões
-- Export opportunities em digital governança: R$ 1 bilhão
+**Benefícios Econômicos Diretos**:
+- Criação de empregos: 5.000+ posições especializadas
+- Desenvolvimento do setor tecnológico: R$ 2 bilhões de investimento
+- Impulso acadêmico/pesquisa: R$ 500 milhões
+- Oportunidades de exportação em governança digital: R$ 1 bilhão
 
-**Indirect Benefits**:
-- Democratic stability: R$ 50 bilhões value preservation
-- Innovation ecosystem protection: R$ 10 bilhões
-- Consumer trust enhancement: R$ 5 bilhões
-- International standing improvement: Immeasurable
+**Benefícios Indiretos**:
+- Estabilidade democrática: R$ 50 bilhões de preservação de valor
+- Proteção do ecossistema de inovação: R$ 10 bilhões
+- Melhoria da confiança do consumidor: R$ 5 bilhões
+- Melhoria da posição internacional: Incomensurável
 
-**Net Economic Impact**: **+R$ 65 bilhões annually**
+**Impacto Econômico Líquido**: **+R$ 65 bilhões anuais**
 
 ---
 
@@ -1362,41 +1362,41 @@ A análise integrada de 627 documentos, 1.247 casos empíricos e dados técnicos
 Três descobertas críticas emergiram apenas da análise holística:
 
 **1. Convergência Algorítmica Coordenada**:
-Probabilidade <0.001 de que a sincronização de mudanças algorítmicas entre plataformas durante eventos políticos seja aleatória. Indica coordination systematic entre as empresas para amplificação de narrativas específicas.
+Probabilidade <0.001 de que a sincronização de mudanças algorítmicas entre plataformas durante eventos políticos seja aleatória. Indica coordenação sistemática entre as empresas para amplificação de narrativas específicas.
 
 **2. Exploração de Vulnerabilidades Culturais Brasileiras**:
-As plataformas desenvolveram sofisticada understanding das divisões sociais brasileiras e utilizam algoritmos para amplificá-las sistemática e artificialmente, criando e mantendo conflitos para maximizar engagement.
+As plataformas desenvolveram compreensão sofisticada das divisões sociais brasileiras e utilizam algoritmos para amplificá-las sistemática e artificialmente, criando e mantendo conflitos para maximizar engajamento.
 
 **3. Preparação para "Evento Cisne Negro" 2026**:
-Padrões de behavior das plataformas indicam preparation para major disruption durante eleições 2026, incluindo capacidade transfer para atores políticos (Fortaleza treinamento) e resistência crescente à regulação brasileira.
+Padrões de comportamento das plataformas indicam preparação para grande disrupção durante eleições 2026, incluindo transferência de capacidades para atores políticos (treinamento de Fortaleza) e resistência crescente à regulação brasileira.
 
 ### 8.2 Implicações para a Inteligência Nacional
 
 #### 8.2.1 Mudança de Paradigma Necessária
 
-A comunidade de inteligência brasileira deve executar transition fundamental:
+A comunidade de inteligência brasileira deve executar transição fundamental:
 
-**De: Observer Passivo → Para: Defensor Ativo**
-- Traditional intelligence focava em monitoring de threats
-- Digital threats require proactive defense e counter-operations
-- New mission: proteção da soberania cognitiva nacional
+**De: Observador Passivo → Para: Defensor Ativo**
+- Inteligência tradicional focava em monitoramento de ameaças
+- Ameaças digitais requerem defesa proativa e contraoperações
+- Nova missão: proteção da soberania cognitiva nacional
 
-**De: Focus Militar → Para: Focus Cognitivo**
-- Primary battlefield mudou para domain of information
-- Victory/defeat determined por capacity para shape public opinion
-- Military assets less relevant que technical e analytical capacidades
+**De: Foco Militar → Para: Foco Cognitivo**
+- Campo de batalha primário mudou para domínio da informação
+- Vitória/derrota determinada pela capacidade de moldar opinião pública
+- Ativos militares menos relevantes que capacidades técnicas e analíticas
 
-**De: National Focus → Para: Systemic Focus**
-- Threats operate across borders através de global platforms
-- Response requires international coordination e shared intelligence
-- National sovereignty depends em global coalition building
+**De: Foco Nacional → Para: Foco Sistêmico**
+- Ameaças operam através de fronteiras via plataformas globais
+- Resposta requer coordenação internacional e inteligência compartilhada
+- Soberania nacional depende de construção de coalição global
 
 #### 8.2.2 Capacidades Requeridas
 
-**Immediate Capabilities (0-6 months)**:
-- Algorithm change detection e analysis
-- Cross-platform behavior correlation
-- Foreign influence operation identification
+**Capacidades Imediatas (0-6 meses)**:
+- Detecção e análise de mudanças algorítmicas
+- Correlação de comportamento entre plataformas
+- Identificação de operações de influência estrangeira
 - Crisis response coordination protocols
 
 **Advanced Capabilities (6-18 months)**:
